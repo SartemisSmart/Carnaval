@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<uid>S_RUE</uid>
+	<scene>
+		<zoom>50</zoom>
+		<postShader/>
+	</scene>
+	<objects>
+		<O_HERO>
+			<x>112</x>
+			<y>866</y>
+			<height3D>0</height3D>
+			<fixed3D>0</fixed3D>
+			<blend>None</blend>
+			<hud>0</hud>
+			<speedX>0</speedX>
+			<speedY>0</speedY>
+			<locked>0</locked>
+			<hidden>0</hidden>
+			<depths>
+				<depth y="672" scale="50" zoom="110" noScale="0" noZoom="0"/>
+				<depth y="816" scale="70" zoom="100" noScale="0" noZoom="0"/>
+				<depth y="928" scale="80" zoom="100" noScale="0" noZoom="0"/>
+				<depth y="1072" scale="90" zoom="100" noScale="0" noZoom="0"/>
+				<depth y="1296" scale="80" zoom="100" noScale="0" noZoom="0"/>
+				<depth y="1728" scale="100" zoom="100" noScale="0" noZoom="0"/>
+			</depths>
+			<sheets>
+				<sheet>
+					<CELL col="10" row="54"/>
+					<CELL col="10" row="55"/>
+					<CELL col="11" row="54"/>
+					<CELL col="11" row="55"/>
+					<CELL col="13" row="54"/>
+					<CELL col="13" row="55"/>
+					<CELL col="14" row="54"/>
+					<CELL col="14" row="55"/>
+					<WALKIN col="15" row="54"/>
+					<WALKIN col="15" row="55"/>
+					<CELL col="25" row="54"/>
+					<CELL col="16" row="54"/>
+					<CELL col="16" row="55"/>
+					<CELL col="17" row="54"/>
+					<CELL col="17" row="55"/>
+					<CELL col="18" row="54"/>
+					<CELL col="18" row="55"/>
+					<CELL col="19" row="54"/>
+					<CELL col="19" row="55"/>
+					<CELL col="20" row="54"/>
+					<CELL col="20" row="55"/>
+					<CELL col="22" row="54"/>
+					<CELL col="22" row="55"/>
+					<CELL col="23" row="54"/>
+					<CELL col="23" row="55"/>
+					<CELL col="24" row="54"/>
+					<CELL col="24" row="55"/>
+					<CELL col="25" row="55"/>
+					<CELL col="26" row="54"/>
+					<CELL col="26" row="55"/>
+					<CELL col="27" row="54"/>
+					<CELL col="27" row="55"/>
+					<CELL col="28" row="54"/>
+					<CELL col="28" row="55"/>
+					<CELL col="29" row="54"/>
+					<CELL col="29" row="55"/>
+					<CELL col="30" row="54"/>
+					<CELL col="30" row="55"/>
+					<CELL col="31" row="54"/>
+					<CELL col="31" row="55"/>
+					<CELL col="32" row="54"/>
+					<CELL col="32" row="55"/>
+					<CELL col="31" row="56"/>
+					<CELL col="32" row="56"/>
+					<CELL col="33" row="55"/>
+					<CELL col="33" row="56"/>
+					<CELL col="34" row="55"/>
+					<CELL col="34" row="56"/>
+					<CELL col="35" row="55"/>
+					<CELL col="35" row="56"/>
+					<CELL col="36" row="55"/>
+					<CELL col="36" row="56"/>
+					<CELL col="37" row="55"/>
+					<CELL col="37" row="56"/>
+					<CELL col="38" row="55"/>
+					<CELL col="38" row="56"/>
+					<CELL col="39" row="55"/>
+					<CELL col="39" row="56"/>
+					<CELL col="40" row="55"/>
+					<CELL col="40" row="56"/>
+					<CELL col="41" row="55"/>
+					<CELL col="41" row="56"/>
+					<CELL col="42" row="55"/>
+					<CELL col="42" row="56"/>
+					<CELL col="43" row="55"/>
+					<CELL col="43" row="56"/>
+					<CELL col="44" row="55"/>
+					<CELL col="44" row="56"/>
+					<CELL col="45" row="55"/>
+					<CELL col="45" row="56"/>
+					<CELL col="46" row="55"/>
+					<CELL col="46" row="56"/>
+					<CELL col="47" row="55"/>
+					<CELL col="47" row="56"/>
+					<CELL col="48" row="55"/>
+					<CELL col="48" row="56"/>
+					<CELL col="49" row="55"/>
+					<CELL col="49" row="56"/>
+					<CELL col="50" row="55"/>
+					<CELL col="50" row="56"/>
+					<CELL col="49" row="54"/>
+					<CELL col="50" row="54"/>
+					<CELL col="51" row="54"/>
+					<CELL col="51" row="55"/>
+					<CELL col="52" row="54"/>
+					<CELL col="52" row="55"/>
+					<CELL col="53" row="54"/>
+					<CELL col="53" row="55"/>
+					<CELL col="52" row="53"/>
+					<CELL col="53" row="53"/>
+					<CELL col="54" row="53"/>
+					<CELL col="54" row="54"/>
+					<CELL col="54" row="52"/>
+					<CELL col="55" row="52"/>
+					<CELL col="55" row="53"/>
+					<CELL col="54" row="51"/>
+					<CELL col="55" row="51"/>
+					<CELL col="56" row="51"/>
+					<CELL col="56" row="52"/>
+					<CELL col="55" row="50"/>
+					<CELL col="56" row="50"/>
+					<CELL col="55" row="49"/>
+					<CELL col="56" row="49"/>
+					<CELL col="55" row="48"/>
+					<CELL col="56" row="48"/>
+					<CELL col="56" row="47"/>
+					<CELL col="57" row="47"/>
+					<CELL col="57" row="48"/>
+					<CELL col="56" row="46"/>
+					<CELL col="57" row="46"/>
+					<CELL col="56" row="45"/>
+					<CELL col="57" row="45"/>
+					<CELL col="56" row="44"/>
+					<CELL col="57" row="44"/>
+					<GOTOHOUSE col="56" row="43" event="1" linkSelDoor_Door="DOORHOUSE"/>
+					<GOTOHOUSE col="57" row="43" event="1" linkSelDoor_Door="DOORHOUSE"/>
+					<GOTOHOUSE col="55" row="43" event="1" linkSelDoor_Door="DOORHOUSE"/>
+					<CELL col="55" row="44"/>
+					<CELL col="57" row="49"/>
+					<CELL col="57" row="50"/>
+					<CELL col="57" row="51"/>
+					<CELL col="56" row="53"/>
+					<CELL col="55" row="54"/>
+					<CELL col="56" row="54"/>
+					<CELL col="57" row="53"/>
+					<CELL col="57" row="54"/>
+					<CELL col="58" row="53"/>
+					<CELL col="58" row="54"/>
+					<CELL col="59" row="53"/>
+					<CELL col="59" row="54"/>
+					<CELL col="60" row="53"/>
+					<CELL col="60" row="54"/>
+					<CELL col="61" row="53"/>
+					<CELL col="61" row="54"/>
+					<CELL col="62" row="53"/>
+					<CELL col="62" row="54"/>
+					<CELL col="63" row="53"/>
+					<CELL col="63" row="54"/>
+					<CELL col="62" row="52"/>
+					<CELL col="63" row="52"/>
+					<CELL col="64" row="52"/>
+					<CELL col="64" row="53"/>
+					<CELL col="65" row="52"/>
+					<CELL col="65" row="53"/>
+					<CELL col="65" row="51"/>
+					<CELL col="66" row="51"/>
+					<CELL col="66" row="52"/>
+					<CELL col="66" row="50"/>
+					<CELL col="67" row="50"/>
+					<CELL col="67" row="51"/>
+					<CELL col="68" row="50"/>
+					<CELL col="68" row="51"/>
+					<CELL col="67" row="49"/>
+					<CELL col="68" row="49"/>
+					<CELL col="69" row="49"/>
+					<CELL col="69" row="50"/>
+					<CELL col="68" row="48"/>
+					<CELL col="69" row="48"/>
+					<CELL col="68" row="47"/>
+					<CELL col="69" row="47"/>
+					<CELL col="69" row="46"/>
+					<CELL col="70" row="46"/>
+					<CELL col="70" row="47"/>
+					<CELL col="69" row="45"/>
+					<CELL col="70" row="45"/>
+					<CELL col="71" row="45"/>
+					<CELL col="71" row="46"/>
+					<CELL col="70" row="44"/>
+					<CELL col="71" row="44"/>
+					<CELL col="72" row="44"/>
+					<CELL col="72" row="45"/>
+					<CELL col="71" row="43"/>
+					<CELL col="72" row="43"/>
+					<CELL col="67" row="48"/>
+					<CELL col="67" row="52"/>
+					<CELL col="66" row="53"/>
+					<CELL col="67" row="53"/>
+					<CELL col="66" row="54"/>
+					<CELL col="67" row="54"/>
+					<CELL col="67" row="55"/>
+					<CELL col="68" row="54"/>
+					<CELL col="68" row="55"/>
+					<CELL col="68" row="56"/>
+					<CELL col="69" row="55"/>
+					<CELL col="69" row="56"/>
+					<CELL col="69" row="57"/>
+					<CELL col="70" row="56"/>
+					<CELL col="70" row="57"/>
+					<CELL col="72" row="57"/>
+					<CELL col="72" row="58"/>
+					<CELL col="73" row="57"/>
+					<CELL col="73" row="58"/>
+					<CELL col="74" row="57"/>
+					<CELL col="74" row="58"/>
+					<CELL col="75" row="57"/>
+					<CELL col="75" row="58"/>
+					<CELL col="76" row="57"/>
+					<CELL col="76" row="58"/>
+					<CELL col="77" row="57"/>
+					<CELL col="77" row="58"/>
+					<CELL col="88" row="60"/>
+					<CELL col="88" row="61"/>
+					<CELL col="89" row="60"/>
+					<CELL col="89" row="61"/>
+					<CELL col="90" row="60"/>
+					<CELL col="90" row="61"/>
+					<CELL col="91" row="60"/>
+					<CELL col="91" row="61"/>
+					<CELL col="92" row="60"/>
+					<CELL col="92" row="61"/>
+					<CELL col="93" row="60"/>
+					<CELL col="93" row="61"/>
+					<CELL col="93" row="62"/>
+					<CELL col="94" row="61"/>
+					<CELL col="94" row="62"/>
+					<CELL col="95" row="61"/>
+					<CELL col="95" row="62"/>
+					<CELL col="96" row="61"/>
+					<CELL col="96" row="62"/>
+					<CELL col="95" row="63"/>
+					<CELL col="96" row="63"/>
+					<CELL col="97" row="62" linkSelLabel_Label="BOUTIQUE"/>
+					<CELL col="97" row="63"/>
+					<CELL col="92" row="62"/>
+					<CELL col="91" row="62"/>
+					<CELL col="90" row="62"/>
+					<CELL col="89" row="62"/>
+					<CELL col="88" row="62"/>
+					<CELL col="87" row="60"/>
+					<CELL col="87" row="61"/>
+					<CELL col="86" row="60"/>
+					<CELL col="86" row="61"/>
+					<CELL col="85" row="60"/>
+					<CELL col="85" row="61"/>
+					<CELL col="84" row="60"/>
+					<CELL col="84" row="61"/>
+					<CELL col="83" row="60"/>
+					<CELL col="83" row="61"/>
+					<CELL col="81" row="60"/>
+					<CELL col="81" row="61"/>
+					<CELL col="82" row="60"/>
+					<CELL col="82" row="61"/>
+					<CELL col="80" row="60"/>
+					<CELL col="80" row="61"/>
+					<CELL col="79" row="60"/>
+					<CELL col="79" row="61"/>
+					<CELL col="78" row="60"/>
+					<CELL col="78" row="61"/>
+					<CELL col="78" row="59"/>
+					<CELL col="79" row="59"/>
+					<CELL col="77" row="59"/>
+					<CELL col="77" row="60"/>
+					<CELL col="76" row="59"/>
+					<CELL col="76" row="60"/>
+					<CELL col="75" row="59"/>
+					<CELL col="75" row="60"/>
+					<CELL col="74" row="59"/>
+					<CELL col="73" row="59"/>
+					<CELL col="71" row="57"/>
+					<CELL col="71" row="58"/>
+					<CELL col="71" row="56"/>
+					<CELL col="72" row="56"/>
+					<CELL col="70" row="55"/>
+					<CELL col="71" row="55"/>
+					<CELL col="85" row="62"/>
+					<CELL col="86" row="62"/>
+					<CELL col="87" row="62"/>
+					<CELL col="94" row="63"/>
+					<CELL col="98" row="62" linkSelLabel_Label="BOUTIQUE"/>
+					<CELL col="98" row="63"/>
+					<CELL col="99" row="62" linkSelLabel_Label="BOUTIQUE"/>
+					<CELL col="99" row="63"/>
+					<CELL col="100" row="62" linkSelLabel_Label="BOUTIQUE"/>
+					<CELL col="100" row="63"/>
+					<CELL col="101" row="62" linkSelLabel_Label="BOUTIQUE"/>
+					<CELL col="101" row="63"/>
+					<CELL col="102" row="62" linkSelLabel_Label="BOUTIQUE"/>
+					<CELL col="102" row="63"/>
+					<CELL col="103" row="62"/>
+					<CELL col="103" row="63"/>
+					<CELL col="103" row="61"/>
+					<CELL col="104" row="61"/>
+					<CELL col="104" row="62"/>
+					<CELL col="105" row="61"/>
+					<CELL col="105" row="62"/>
+					<CELL col="106" row="61"/>
+					<CELL col="106" row="62"/>
+					<CELL col="107" row="61"/>
+					<CELL col="107" row="62"/>
+					<CELL col="106" row="60"/>
+					<CELL col="107" row="60"/>
+					<CELL col="108" row="60"/>
+					<CELL col="108" row="61"/>
+					<CELL col="109" row="60"/>
+					<CELL col="109" row="61"/>
+					<CELL col="110" row="60"/>
+					<CELL col="110" row="61"/>
+					<CELL col="111" row="60"/>
+					<CELL col="111" row="61"/>
+					<CELL col="113" row="60"/>
+					<CELL col="113" row="61"/>
+					<CELL col="114" row="60"/>
+					<CELL col="114" row="61"/>
+					<CELL col="115" row="60"/>
+					<CELL col="115" row="61"/>
+					<CELL col="112" row="60"/>
+					<CELL col="112" row="61"/>
+					<CELL col="110" row="62"/>
+					<CELL col="111" row="62"/>
+					<CELL col="109" row="62"/>
+					<CELL col="108" row="62"/>
+					<CELL col="104" row="63"/>
+					<CELL col="105" row="63"/>
+					<CELL col="106" row="63"/>
+					<CELL col="112" row="62"/>
+					<CELL col="113" row="62"/>
+					<CELL col="116" row="60"/>
+					<CELL col="116" row="61"/>
+					<CELL col="117" row="60"/>
+					<CELL col="117" row="61"/>
+					<CELL col="118" row="60"/>
+					<CELL col="118" row="61"/>
+					<CELL col="119" row="60"/>
+					<CELL col="119" row="61"/>
+					<CELL col="120" row="60"/>
+					<CELL col="120" row="61"/>
+					<CELL col="122" row="59"/>
+					<CELL col="122" row="60"/>
+					<CELL col="123" row="59"/>
+					<CELL col="123" row="60"/>
+					<CELL col="124" row="59"/>
+					<CELL col="124" row="60"/>
+					<CELL col="124" row="58"/>
+					<CELL col="125" row="58"/>
+					<CELL col="125" row="59"/>
+					<CELL col="125" row="57"/>
+					<CELL col="126" row="57"/>
+					<CELL col="126" row="58"/>
+					<CELL col="126" row="56"/>
+					<CELL col="127" row="56"/>
+					<CELL col="127" row="57"/>
+					<CELL col="128" row="56"/>
+					<CELL col="128" row="57"/>
+					<CELL col="127" row="55"/>
+					<CELL col="128" row="55"/>
+					<CELL col="129" row="55"/>
+					<CELL col="129" row="56"/>
+					<CELL col="128" row="54"/>
+					<CELL col="129" row="54"/>
+					<CELL col="130" row="54"/>
+					<CELL col="130" row="55"/>
+					<CELL col="129" row="53"/>
+					<CELL col="130" row="53"/>
+					<CELL col="131" row="53"/>
+					<CELL col="131" row="54"/>
+					<CELL col="130" row="52"/>
+					<CELL col="131" row="52"/>
+					<CELL col="131" row="51"/>
+					<CELL col="132" row="51"/>
+					<CELL col="132" row="52"/>
+					<CELL col="131" row="50"/>
+					<CELL col="132" row="50"/>
+					<CELL col="133" row="50"/>
+					<CELL col="133" row="51"/>
+					<CELL col="132" row="49"/>
+					<CELL col="133" row="49"/>
+					<CELL col="130" row="51"/>
+					<CELL col="129" row="52"/>
+					<CELL col="128" row="53"/>
+					<CELL col="127" row="54"/>
+					<CELL col="126" row="55"/>
+					<CELL col="125" row="56"/>
+					<CELL col="124" row="57"/>
+					<CELL col="123" row="58"/>
+					<CELL col="121" row="59"/>
+					<CELL col="121" row="60"/>
+					<CELL col="121" row="61"/>
+					<CELL col="122" row="61"/>
+					<CELL col="117" row="62"/>
+					<CELL col="118" row="62"/>
+					<CELL col="116" row="62"/>
+					<CELL col="115" row="62"/>
+					<CELL col="114" row="62"/>
+					<CELL col="134" row="49"/>
+					<CELL col="134" row="50"/>
+					<CELL col="133" row="48"/>
+					<CELL col="134" row="48"/>
+					<CELL col="135" row="48"/>
+					<CELL col="135" row="49"/>
+					<CELL col="134" row="47"/>
+					<CELL col="135" row="47"/>
+					<CELL col="136" row="47"/>
+					<CELL col="136" row="48"/>
+					<CELL col="135" row="46"/>
+					<CELL col="136" row="46"/>
+					<CELL col="137" row="46"/>
+					<CELL col="137" row="47"/>
+					<CELL col="136" row="45"/>
+					<CELL col="137" row="45"/>
+					<CELL col="138" row="45"/>
+					<CELL col="138" row="46"/>
+					<CELL col="137" row="44"/>
+					<CELL col="138" row="44"/>
+					<GOTOMEDIA col="137" row="43" event="1" linkSelDoor_Door="DOORMEDIA"/>
+					<GOTOMEDIA col="138" row="43" event="1" linkSelDoor_Door="DOORMEDIA"/>
+					<GOTOMEDIA col="139" row="43" event="1" linkSelDoor_Door="DOORMEDIA"/>
+					<CELL col="139" row="44"/>
+					<GOTOMEDIA col="138" row="42" event="1" linkSelDoor_Door="DOORMEDIA"/>
+					<GOTOMEDIA col="139" row="42" event="1" linkSelDoor_Door="DOORMEDIA"/>
+					<CELL col="132" row="53"/>
+					<CELL col="133" row="52"/>
+					<CELL col="133" row="53"/>
+					<CELL col="134" row="52"/>
+					<CELL col="134" row="53"/>
+					<CELL col="135" row="52"/>
+					<CELL col="135" row="53"/>
+					<CELL col="134" row="51"/>
+					<CELL col="140" row="52"/>
+					<CELL col="141" row="52"/>
+					<CELL col="142" row="52"/>
+					<CELL col="143" row="52"/>
+					<CELL col="144" row="52"/>
+					<CELL col="145" row="52"/>
+					<CELL col="146" row="52"/>
+					<CELL col="147" row="52"/>
+					<CELL col="147" row="53"/>
+					<CELL col="148" row="52"/>
+					<CELL col="148" row="53"/>
+					<CELL col="149" row="52"/>
+					<CELL col="149" row="53"/>
+					<CELL col="150" row="52"/>
+					<CELL col="150" row="53"/>
+					<CELL col="151" row="52"/>
+					<CELL col="151" row="53"/>
+					<CELL col="152" row="52"/>
+					<CELL col="152" row="53"/>
+					<CELL col="153" row="52"/>
+					<CELL col="153" row="53"/>
+					<CELL col="154" row="52"/>
+					<CELL col="154" row="53"/>
+					<CELL col="155" row="52"/>
+					<CELL col="155" row="53"/>
+					<CELL col="156" row="52"/>
+					<CELL col="156" row="53"/>
+					<CELL col="157" row="52"/>
+					<CELL col="157" row="53"/>
+					<CELL col="158" row="52"/>
+					<CELL col="158" row="53"/>
+					<CELL col="159" row="52"/>
+					<CELL col="159" row="53"/>
+					<CELL col="160" row="52"/>
+					<CELL col="160" row="53"/>
+					<CELL col="161" row="52"/>
+					<CELL col="161" row="53"/>
+					<CELL col="162" row="52"/>
+					<CELL col="162" row="53"/>
+					<CELL col="163" row="52"/>
+					<CELL col="163" row="53"/>
+					<CELL col="164" row="52"/>
+					<CELL col="164" row="53"/>
+					<CELL col="165" row="52"/>
+					<CELL col="165" row="53"/>
+					<CELL col="166" row="52"/>
+					<CELL col="166" row="53"/>
+					<CELL col="167" row="52"/>
+					<CELL col="167" row="53"/>
+					<CELL col="168" row="53"/>
+					<CELL col="169" row="53"/>
+					<CELL col="168" row="52"/>
+					<CELL col="169" row="52"/>
+					<CELL col="170" row="52"/>
+					<CELL col="170" row="53"/>
+					<CELL col="171" row="52"/>
+					<CELL col="171" row="53"/>
+					<CELL col="172" row="52"/>
+					<CELL col="172" row="53"/>
+					<CELL col="173" row="52"/>
+					<CELL col="173" row="53"/>
+					<CELL col="174" row="52"/>
+					<CELL col="174" row="53"/>
+					<CELL col="175" row="52"/>
+					<CELL col="175" row="53"/>
+					<CELL col="176" row="52"/>
+					<CELL col="176" row="53"/>
+					<CELL col="177" row="52"/>
+					<CELL col="177" row="53"/>
+					<CELL col="178" row="52"/>
+					<CELL col="178" row="53"/>
+					<CELL col="179" row="52"/>
+					<CELL col="179" row="53"/>
+					<CELL col="180" row="52"/>
+					<CELL col="180" row="53"/>
+					<CELL col="181" row="52"/>
+					<CELL col="181" row="53"/>
+					<CELL col="182" row="52"/>
+					<CELL col="182" row="53"/>
+					<CELL col="183" row="52"/>
+					<CELL col="183" row="53"/>
+					<CELL col="184" row="52"/>
+					<CELL col="184" row="53"/>
+					<CELL col="185" row="52"/>
+					<CELL col="185" row="53"/>
+					<CELL col="186" row="52"/>
+					<CELL col="186" row="53"/>
+					<CELL col="187" row="52"/>
+					<CELL col="187" row="53"/>
+					<CELL col="146" row="53"/>
+					<CELL col="145" row="53"/>
+					<CELL col="144" row="53"/>
+					<CELL col="143" row="53"/>
+					<CELL col="142" row="53"/>
+					<CELL col="141" row="53"/>
+					<CELL col="140" row="53"/>
+					<CELL col="138" row="53"/>
+					<CELL col="139" row="53"/>
+					<CELL col="136" row="53"/>
+					<CELL col="137" row="53"/>
+					<CELL col="139" row="52"/>
+					<CELL col="137" row="52"/>
+					<CELL col="138" row="52"/>
+					<CELL col="136" row="52"/>
+					<CELL col="9" row="54"/>
+					<CELL col="9" row="55"/>
+					<CELL col="8" row="54"/>
+					<CELL col="8" row="55"/>
+					<CELL col="6" row="54"/>
+					<CELL col="6" row="55"/>
+					<CELL col="7" row="54"/>
+					<CELL col="7" row="55"/>
+					<CELL col="5" row="54"/>
+					<CELL col="5" row="55"/>
+					<CELL col="4" row="54"/>
+					<CELL col="4" row="55"/>
+					<CELL col="3" row="54" event="1" linkSelDoor_Door="DOORTREE"/>
+					<CELL col="3" row="55" event="1" linkSelDoor_Door="DOORTREE"/>
+					<CELL col="2" row="54" event="1" linkSelDoor_Door="DOORTREE"/>
+					<CELL col="2" row="55" event="1" linkSelDoor_Door="DOORTREE"/>
+					<CELL col="125" row="60"/>
+					<CELL col="126" row="60"/>
+					<CELL col="129" row="60"/>
+					<CELL col="130" row="60"/>
+					<CELL col="131" row="60"/>
+					<CELL col="132" row="60"/>
+					<CELL col="133" row="60"/>
+					<CELL col="135" row="59"/>
+					<CELL col="136" row="59"/>
+					<CELL col="136" row="58"/>
+					<CELL col="137" row="58"/>
+					<CELL col="138" row="58"/>
+					<CELL col="139" row="58"/>
+					<CELL col="139" row="57"/>
+					<CELL col="140" row="57"/>
+					<CELL col="141" row="57"/>
+					<CELL col="142" row="56"/>
+					<CELL col="143" row="56"/>
+					<CELL col="144" row="56"/>
+					<CELL col="145" row="56"/>
+					<CELL col="145" row="55"/>
+					<CELL col="146" row="54"/>
+					<CELL col="147" row="54"/>
+					<CELL col="145" row="54"/>
+					<CELL col="143" row="57"/>
+					<CELL col="142" row="57"/>
+					<CELL col="140" row="58"/>
+					<CELL col="137" row="59"/>
+					<CELL col="134" row="59"/>
+					<CELL col="134" row="60"/>
+					<CELL col="128" row="60"/>
+					<CELL col="127" row="60"/>
+					<CELL col="127" row="59"/>
+					<CELL col="128" row="59"/>
+					<CELL col="129" row="59"/>
+					<CELL col="130" row="59"/>
+					<CELL col="131" row="58"/>
+					<CELL col="132" row="58"/>
+					<CELL col="133" row="58"/>
+					<CELL col="134" row="57"/>
+					<CELL col="135" row="57"/>
+					<CELL col="136" row="57"/>
+					<CELL col="137" row="57"/>
+					<CELL col="138" row="57"/>
+					<CELL col="139" row="56"/>
+					<CELL col="140" row="56"/>
+					<CELL col="141" row="56"/>
+					<CELL col="141" row="55"/>
+					<CELL col="142" row="55"/>
+					<CELL col="143" row="55"/>
+					<CELL col="143" row="54"/>
+					<CELL col="144" row="54"/>
+					<CELL col="135" row="58"/>
+					<CELL col="134" row="58"/>
+					<CELL col="133" row="59"/>
+					<CELL col="132" row="59"/>
+					<CELL col="131" row="59"/>
+					<CELL col="148" row="54"/>
+					<CELL col="149" row="54"/>
+					<CELL col="151" row="54"/>
+					<CELL col="153" row="54"/>
+					<CELL col="154" row="54"/>
+					<CELL col="155" row="54"/>
+					<CELL col="152" row="54"/>
+					<CELL col="150" row="54"/>
+					<CELL col="144" row="55"/>
+					<CELL col="147" row="55"/>
+					<CELL col="146" row="55"/>
+					<CELL col="93" row="63"/>
+					<CELL col="92" row="63"/>
+					<CELL col="91" row="63"/>
+					<CELL col="83" row="62"/>
+					<CELL col="80" row="59"/>
+					<CELL col="78" row="58"/>
+					<CELL col="73" row="56"/>
+					<CELL col="72" row="55"/>
+					<CELL col="71" row="54"/>
+					<CELL col="70" row="54"/>
+					<CELL col="70" row="53"/>
+					<CELL col="69" row="53"/>
+					<CELL col="68" row="53"/>
+					<CELL col="68" row="52"/>
+					<CELL col="69" row="54"/>
+					<CELL col="126" row="59"/>
+					<CELL col="30" row="56"/>
+					<CELL col="33" row="54"/>
+					<CELL col="34" row="54"/>
+					<CELL col="35" row="54"/>
+					<CELL col="36" row="54"/>
+					<CELL col="37" row="54"/>
+					<CELL col="48" row="54"/>
+					<CELL col="51" row="53"/>
+					<CELL col="52" row="52"/>
+					<CELL col="53" row="52"/>
+					<CELL col="53" row="51"/>
+					<CELL col="54" row="50"/>
+					<CELL col="54" row="49"/>
+					<CELL col="55" row="47"/>
+					<CELL col="55" row="46"/>
+					<CELL col="55" row="45"/>
+					<GOTOHOUSE col="55" row="42" event="1" linkSelDoor_Door="DOORHOUSE"/>
+					<GOTOHOUSE col="56" row="42" event="1" linkSelDoor_Door="DOORHOUSE"/>
+					<CELL col="64" row="54"/>
+					<CELL col="65" row="54"/>
+					<CELL col="60" row="55"/>
+					<CELL col="61" row="55"/>
+					<CELL col="59" row="55"/>
+					<CELL col="58" row="55"/>
+					<CELL col="57" row="55"/>
+					<CELL col="57" row="56"/>
+					<CELL col="58" row="56"/>
+					<CELL col="56" row="55"/>
+					<CELL col="56" row="56"/>
+					<CELL col="55" row="55"/>
+					<CELL col="55" row="56"/>
+					<CELL col="54" row="55"/>
+					<CELL col="54" row="56"/>
+					<CELL col="53" row="56"/>
+					<CELL col="52" row="56"/>
+					<CELL col="51" row="56"/>
+					<CELL col="38" row="54"/>
+					<CELL col="39" row="54"/>
+					<CELL col="73" row="43"/>
+					<CELL col="73" row="44"/>
+					<GOTOMEDIA col="140" row="42" event="1" linkSelDoor_Door="DOORMEDIA"/>
+					<GOTOMEDIA col="140" row="43" event="1" linkSelDoor_Door="DOORMEDIA"/>
+					<GOTOHOUSE col="57" row="42" event="1" linkSelDoor_Door="DOORHOUSE"/>
+					<GOTOMEDIA col="137" row="42" event="1" linkSelDoor_Door="DOORMEDIA"/>
+					<CELL col="12" row="54"/>
+					<CELL col="12" row="55"/>
+					<CELL col="21" row="54"/>
+					<CELL col="21" row="55"/>
+				</sheet>
+			</sheets>
+		</O_HERO>
+	</objects>
+	<labels>
+		<BOUTIQUE>
+			<x>1334</x>
+			<y>328</y>
+			<width>552</width>
+			<height>316</height>
+			<title>
+				<English/>
+				<French>La Boutik'</French>
+			</title>
+			<showTitle>0</showTitle>
+			<forward>0</forward>
+			<locked>0</locked>
+		</BOUTIQUE>
+	</labels>
+	<doors>
+		<DOORHOUSE>
+			<x>833</x>
+			<y>440</y>
+			<width>142</width>
+			<height>244</height>
+			<title>
+				<English/>
+				<French>Vers la Maison des Deux Grand-Mères</French>
+			</title>
+			<showTitle>0</showTitle>
+			<forward>0</forward>
+			<locked>0</locked>
+		</DOORHOUSE>
+		<DOORMEDIA>
+			<x>2135</x>
+			<y>462</y>
+			<width>206</width>
+			<height>217</height>
+			<title>
+				<English/>
+				<French>Vers la Médiathèque</French>
+			</title>
+			<showTitle>0</showTitle>
+			<forward>0</forward>
+			<locked>0</locked>
+		</DOORMEDIA>
+		<DOORTREE>
+			<x>-4</x>
+			<y>-14</y>
+			<width>212</width>
+			<height>1096</height>
+			<title>
+				<English/>
+				<French>Vers l'arbre à sieste</French>
+			</title>
+			<showTitle>0</showTitle>
+			<forward>0</forward>
+			<locked>0</locked>
+		</DOORTREE>
+	</doors>
+	<events>
+		<event name="ENTER" param1="S_RUE">if isOldScene S_ARBRE
+	walk O_HERO WALKIN
+elseIf isOldScene S_MAISON
+	front O_HERO
+	move O_HERO GOTOHOUSE
+else
+	front O_HERO
+	move O_HERO GOTOMEDIA
+end
+	</event>
+		<event name="DOOR" param1="DOORTREE">jump S_ARBRE</event>
+		<event name="DOOR" param1="DOORHOUSE">jump S_MAISON</event>
+		<event name="DOOR" param1="DOORMEDIA">jump S_MEDIATHEQUE</event>
+		<event name="LABEL" param1="BOUTIQUE">talk D_BOUTIQUE</event>
+		<event name="USE" param1="O_NOTES" param2="O_HERO">talk D_LIST</event>
+		<event name="USE" param1="O_PIECE_TREE" param2="O_HERO">talk D_CHORE</event>
+	</events>
+	<goals/>
+</xml>

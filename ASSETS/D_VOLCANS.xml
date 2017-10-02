@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<uid>D_VOLCANS</uid>
+	<dialog nextid="13">
+		<sentence id="0" choice="1" hideBranch="0" goto="0" exit="0" hidden="0" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+			<text>
+				<English/>
+				<French/>
+			</text>
+			<script/>
+			<sentences>
+				<sentence id="1" choice="0" hideBranch="0" goto="2" exit="0" hidden="0" speaker="O_HERO" dir="BACK" keepDir="1" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+					<text>
+						<English/>
+						<French>Les célèbres volcans d'Anar.
+Leur couleur verte et leur rondeur paisible m'aident à dormir.</French>
+					</text>
+					<script/>
+				</sentence>
+				<sentence id="2" choice="0" hideBranch="0" goto="3" exit="0" hidden="0" speaker="O_HERO" keepDir="0" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+					<text>
+						<English/>
+						<French>C'est drôle. Les anciennes du village m'ont dit ces volcans ne sont pas entrés en éruption depuis 150 ans.
+C'est fou, on en oublirait que ces choses pourraient réduire le village en ruines en quelques instants...
+Brrr !</French>
+					</text>
+					<script/>
+				</sentence>
+				<sentence id="3" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+					<text>
+						<English/>
+						<French>Vaut mieux pas y penser.</French>
+					</text>
+					<script/>
+				</sentence>
+			</sentences>
+		</sentence>
+		<scripts>
+			<enter/>
+			<exit/>
+		</scripts>
+	</dialog>
+</xml>

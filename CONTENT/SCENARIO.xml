@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<graph>
+		<board nextid="83" x="964" y="197"/>
+		<box type="257" id="1" name="START" expanded="0" x="-840" y="-40" scriptExit="Ly8gQXNzaWduIGFuIG9iamVjdCB0byB0aGUgcGxheWVyDQpjb250cm9sIFBfSEVSTyBPX0hFUk8NCg0KLy8gQ2hhbmdlIHRoZSBjdXJyZW50IHBsYXllcg0Kc3dpdGNoIFBfSEVSTw0KDQovLyBDaGFuZ2UgdGhlIGN1cnJlbnQgc2NlbmUNCmp1bXAgU19BUkJSRQ=" success="0">
+			<plug id="2" type="3" visible="1" enabled="1">
+				<trg id="78"/>
+				<trg id="81"/>
+			</plug>
+		</box>
+		<box type="260" id="3" name="END" expanded="0" x="1416" y="-40" success="0">
+			<plug id="4" type="2" visible="1" enabled="1"/>
+		</box>
+		<box type="256" id="5" name="ENTER_ANY_HOUSE_SHOP_OPENS" expanded="0" x="-256" y="-208" success="0">
+			<plug id="6" type="2" visible="1" enabled="1"/>
+			<plug id="7" type="3" visible="1" enabled="1">
+				<trg id="12"/>
+			</plug>
+		</box>
+		<box type="258" id="8" name="GO_TO_TOWN" expanded="1" x="-408" y="-32" scriptEnter="anVtcCBTX1JVRQ=" success="0">
+			<plug id="9" type="2" visible="1" enabled="1"/>
+			<plug id="10" type="3" visible="1" enabled="1">
+				<trg id="6"/>
+				<trg id="39"/>
+				<trg id="24"/>
+				<trg id="36"/>
+				<trg id="45"/>
+				<trg id="60"/>
+			</plug>
+		</box>
+		<box type="256" id="11" name="GIVE_TICKET_TO_MERCHANT_GET_COSTUME" expanded="1" x="-40" y="-208" success="0">
+			<plug id="12" type="2" visible="1" enabled="1"/>
+			<plug id="13" type="3" visible="1" enabled="1">
+				<trg id="15"/>
+			</plug>
+		</box>
+		<box type="256" id="14" name="ASK_OLD_WOMAN_TO_DYE" expanded="1" x="224" y="-208" success="0">
+			<plug id="15" type="2" visible="1" enabled="1"/>
+			<plug id="16" type="3" visible="1" enabled="1">
+				<trg id="18"/>
+			</plug>
+		</box>
+		<box type="256" id="17" name="DISTRACT_REHEAT_GET_COSTUME_RED" expanded="1" x="440" y="-208" success="0">
+			<plug id="18" type="2" visible="1" enabled="1"/>
+			<plug id="19" type="3" visible="1" enabled="1">
+				<trg id="21"/>
+			</plug>
+		</box>
+		<box type="258" id="20" name="ALL_ITEMS" expanded="1" x="776" y="-40" success="0">
+			<plug id="21" type="2" visible="1" enabled="1"/>
+			<plug id="22" type="3" visible="1" enabled="1">
+				<trg id="51"/>
+			</plug>
+		</box>
+		<box type="256" id="23" name="GET_PIECE_CHOREGRAPHY_MEDIATHEQUE_IN_BOOK" expanded="1" x="-280" y="328" success="0">
+			<plug id="24" type="2" visible="1" enabled="1"/>
+			<plug id="25" type="3" visible="1" enabled="1">
+				<trg id="21"/>
+			</plug>
+		</box>
+		<box type="256" id="26" name="GET_PIECE_CHOREGRAPHY_DOG" expanded="1" x="-72" y="64" success="0">
+			<plug id="27" type="2" visible="1" enabled="1"/>
+			<plug id="28" type="3" visible="1" enabled="1">
+				<trg id="21"/>
+			</plug>
+		</box>
+		<box type="256" id="29" name="GET_PIECE_CHOREGRAPHY_STREET_1" expanded="1" x="-64" y="152" success="0">
+			<plug id="30" type="2" visible="1" enabled="1"/>
+			<plug id="31" type="3" visible="1" enabled="1">
+				<trg id="21"/>
+			</plug>
+		</box>
+		<box type="256" id="35" name="GET_PIECE_CHOREGRAPHY_STREET_2" expanded="1" x="-280" y="240" success="0">
+			<plug id="36" type="2" visible="1" enabled="1"/>
+			<plug id="37" type="3" visible="1" enabled="1">
+				<trg id="21"/>
+			</plug>
+		</box>
+		<box type="256" id="38" name="GIVE_DOG_BISCUIT" expanded="1" x="-280" y="64" success="0">
+			<plug id="39" type="2" visible="1" enabled="1"/>
+			<plug id="40" type="3" visible="1" enabled="1">
+				<trg id="27"/>
+			</plug>
+		</box>
+		<box type="256" id="44" name="SECONDARY_MISSION" expanded="1" x="-280" y="152" success="0">
+			<plug id="45" type="2" visible="1" enabled="1"/>
+			<plug id="46" type="3" visible="1" enabled="1">
+				<trg id="30"/>
+			</plug>
+		</box>
+		<box type="259" id="47" name="CARNIVAL" value="    " expanded="1" x="1320" y="-40" success="0">
+			<plug id="48" type="2" visible="1" enabled="1"/>
+			<plug id="49" type="3" visible="1" enabled="1">
+				<trg id="4"/>
+			</plug>
+		</box>
+		<box type="256" id="50" name="TALK_TO_FRIEND" expanded="1" x="888" y="-40" success="0">
+			<plug id="51" type="2" visible="1" enabled="1"/>
+			<plug id="52" type="3" visible="1" enabled="1">
+				<trg id="54"/>
+			</plug>
+		</box>
+		<box type="258" id="53" name="READY_FOR_CARNIVAL" expanded="1" x="1024" y="-40" success="0">
+			<plug id="54" type="2" visible="1" enabled="1"/>
+			<plug id="55" type="3" visible="1" enabled="1">
+				<trg id="57"/>
+			</plug>
+		</box>
+		<box type="256" id="56" name="FINAL_ANSWER" expanded="1" x="1192" y="-40" success="0">
+			<plug id="57" type="2" visible="1" enabled="1"/>
+			<plug id="58" type="3" visible="1" enabled="1">
+				<trg id="48"/>
+			</plug>
+		</box>
+		<box type="256" id="59" name="ASK_BOOK_ABOUT_LANTERNS" expanded="1" x="-280" y="-32" success="0">
+			<plug id="60" type="2" visible="1" enabled="1"/>
+			<plug id="61" type="3" visible="1" enabled="1">
+				<trg id="63"/>
+				<trg id="75"/>
+			</plug>
+		</box>
+		<box type="256" id="62" name="ASK_PAPERS_TO_ROLIST" expanded="1" x="-88" y="-104" success="0">
+			<plug id="63" type="2" visible="1" enabled="1"/>
+			<plug id="64" type="3" visible="1" enabled="1">
+				<trg id="66"/>
+			</plug>
+		</box>
+		<box type="256" id="65" name="ASK_JOKE_TO_FRIEND" expanded="1" x="72" y="-104" success="0">
+			<plug id="66" type="2" visible="1" enabled="1"/>
+			<plug id="67" type="3" visible="1" enabled="1">
+				<trg id="69"/>
+			</plug>
+		</box>
+		<box type="256" id="68" name="GIVE_JOKE_TO_ROLIST_GET_PAPERS" expanded="1" x="224" y="-104" success="0">
+			<plug id="69" type="2" visible="1" enabled="1"/>
+			<plug id="70" type="3" visible="1" enabled="1">
+				<trg id="72"/>
+			</plug>
+		</box>
+		<box type="256" id="71" name="COMBINE_PAPERS_CANDLE_GET_LANTERN" expanded="1" x="440" y="-56" success="0">
+			<plug id="72" type="2" visible="1" enabled="1"/>
+			<plug id="73" type="3" visible="1" enabled="1">
+				<trg id="21"/>
+			</plug>
+		</box>
+		<box type="256" id="74" name="DISTRACT_GET_CANDLE" expanded="1" x="72" y="-16" success="0">
+			<plug id="75" type="2" visible="1" enabled="1"/>
+			<plug id="76" type="3" visible="1" enabled="1">
+				<trg id="72"/>
+			</plug>
+		</box>
+		<box type="256" id="77" name="READ_LIST" expanded="1" x="-608" y="-56" scriptEnter="Ly9Mb2FkIHRoZSBpbnZlbnRvcnkNCnRha2UgUF9IRVJPIE9fTk9URVM=" success="0">
+			<plug id="78" type="2" visible="1" enabled="1"/>
+			<plug id="79" type="3" visible="1" enabled="1">
+				<trg id="9"/>
+			</plug>
+		</box>
+		<box type="256" id="80" name="GET_PIECE_CHOREGRAPHY_TREE" expanded="1" x="-664" y="0" success="0">
+			<plug id="81" type="2" visible="1" enabled="1"/>
+			<plug id="82" type="3" visible="1" enabled="1">
+				<trg id="9"/>
+			</plug>
+		</box>
+	</graph>
+</xml>

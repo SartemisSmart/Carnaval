@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<uid>O_NOTES</uid>
+	<object>
+		<bbox>1</bbox>
+		<width>256</width>
+		<height>256</height>
+		<x>150</x>
+		<y>100</y>
+		<maxScale>-1</maxScale>
+		<clone/>
+		<speech>White</speech>
+		<title>
+			<English/>
+			<French>Ma liste</French>
+		</title>
+		<disabled>0</disabled>
+		<palette1/>
+		<palette2/>
+		<palette3/>
+		<palette4/>
+		<speedx>0</speedx>
+		<speedy>0</speedy>
+		<ghost>0</ghost>
+		<ghostRate>20</ghostRate>
+		<ghostCount>8</ghostCount>
+		<turning>0</turning>
+		<turningFPS>10</turningFPS>
+	</object>
+	<anims>
+		<STOP fps="6" loopCount="-1" loopRangeMin="0" loopRangeMax="-1" loopRangeCount="0" linkFrame="-1" flip="0" groupType="0">
+			<LEFT>
+				<frames/>
+			</LEFT>
+			<RIGHT count="1">
+				<frames>
+					<frame md5="D0D07E8961761934F0ACEC1C46070E97" xtrim="28" ytrim="0" wtrim="220" htrim="256" xdraw="26" ydraw="-2" wdraw="224" hdraw="260"/>
+				</frames>
+			</RIGHT>
+			<FRONT>
+				<frames/>
+			</FRONT>
+			<BACK>
+				<frames/>
+			</BACK>
+		</STOP>
+	</anims>
+	<events/>
+	<packs>
+		<frames>
+			<frame pack="0" index="0" index2="-1" x="2" y="2" w="220" h="256"/>
+		</frames>
+		<packs>
+			<pack count="1" groupType="0"/>
+		</packs>
+	</packs>
+	<subs/>
+</xml>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<general>
+		<version>1.0.0.0</version>
+	</general>
+	<game>
+		<name>Le Carnaval d'Anar</name>
+		<version>1.0.0</version>
+		<width>1920</width>
+		<height>1080</height>
+		<font>Cartoon</font>
+		<languages>
+			<english>1</english>
+			<os>1</os>
+			<memory>512</memory>
+			<french>1</french>
+			<native>French</native>
+			<default>French</default>
+		</languages>
+		<versionCode>1</versionCode>
+		<web/>
+		<savegame/>
+		<ios/>
+		<android/>
+		<wsa/>
+		<credits>
+			<English/>
+			<French>Haha, ils ne sont pas encore intégrés !
+
+
+Désolé !</French>
+		</credits>
+		<achievement/>
+		<ratioMode>Screen</ratioMode>
+		<pixelPerfect>0</pixelPerfect>
+		<forceHeight1024>0</forceHeight1024>
+		<package/>
+		<author>Bastien de L'Hermite</author>
+		<fontColor/>
+		<fontColorDoor>Gold</fontColorDoor>
+		<palette1>Original</palette1>
+		<audioLevel>None</audioLevel>
+		<inventoryIconVisible>1</inventoryIconVisible>
+		<contrast>1</contrast>
+		<mergeAudioText>0</mergeAudioText>
+		<fontColorMenu2>Gold</fontColorMenu2>
+		<helpScreen>1</helpScreen>
+	</game>
+	<android/>
+	<build>
+		<Windows>1</Windows>
+		<Mac>0</Mac>
+		<Linux>0</Linux>
+		<Android>0</Android>
+		<iOS>0</iOS>
+		<WSA>0</WSA>
+		<Web>0</Web>
+	</build>
+	<video>
+		<Folder>C:\</Folder>
+		<Output>C:\output.agv</Output>
+		<FPS>25</FPS>
+		<width>960</width>
+		<height>540</height>
+		<quality>60</quality>
+	</video>
+</xml>

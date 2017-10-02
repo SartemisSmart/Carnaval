@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<uid>D_INTRO</uid>
+	<dialog nextid="5">
+		<sentence id="0" choice="1" hideBranch="0" goto="0" exit="0" hidden="0" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+			<text>
+				<English/>
+				<French/>
+			</text>
+			<script/>
+			<sentences>
+				<sentence id="1" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" dir="RIGHT" keepDir="0" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+					<text>
+						<English/>
+						<French>Etrange rêve...
+...</French>
+					</text>
+					<script/>
+					<sentences>
+						<sentence id="2" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" keepDir="0" anim="TALK" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+							<text>
+								<English/>
+								<French>J'avais complètement oublié la générale avec les Enfants du Feu ! 
+Tout Anar est en ébulition depuis des semaines pour le carnaval.
+Il commence ce soir et moi j'ai l'impression d'avoir dormi tout l'été. 
+Je n'ai plus que cet après-midi pour trouver tout ce dont j'ai besoin. 
+C'est malin...
+Bon, réfléchissons un instant.
+J'ai dû garder ma liste quelque part dans mon sac.
+Je ferai mieux de la relire d'abord avant de partir.</French>
+							</text>
+							<script/>
+						</sentence>
+					</sentences>
+				</sentence>
+			</sentences>
+		</sentence>
+		<scripts>
+			<enter/>
+			<exit/>
+		</scripts>
+	</dialog>
+</xml>

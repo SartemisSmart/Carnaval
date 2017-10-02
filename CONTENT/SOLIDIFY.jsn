@@ -1,0 +1,96 @@
+{
+	"assets": [
+		{
+			"path": "GAME\\CURSOR.png",
+			"md5": "507781DA3AE4A36B278DDDDE07EFB614"
+		},
+		{
+			"path": "GAME\\CURSOR_BUSY.png",
+			"md5": "A391D3CABC41C5A94AEFE93CFACD1835"
+		},
+		{
+			"path": "GAME\\CURSOR_DOOR.png",
+			"md5": "3AFBE64C6E5AE91FBB561B3F0139EB88"
+		},
+		{
+			"path": "GAME\\CURSOR_OBJECT.png",
+			"md5": "7F0BA827E573387814E7E502A146916A"
+		},
+		{
+			"path": "GAME\\ITEM_BACK.png",
+			"md5": "0F9F9AF95A60F2FD82B8219072EB43BB"
+		},
+		{
+			"path": "GAME\\ITEM_BAR.png",
+			"md5": "EE80934D37DCD08B8592110B53E99069"
+		},
+		{
+			"path": "GAME\\ITEM_BOX.png",
+			"md5": "C1524CDAC4E2CD063DA145B7165DA8B5"
+		},
+		{
+			"path": "GAME\\ITEM_LEFT.png",
+			"md5": "5E903829A7200AFFF6C700D6A9813720"
+		},
+		{
+			"path": "GAME\\ITEM_LEFT2.png",
+			"md5": "5E903829A7200AFFF6C700D6A9813720"
+		},
+		{
+			"path": "GAME\\ITEM_MENU.png",
+			"md5": "47FD67CDDE918AA221795AC81AE98D1F"
+		},
+		{
+			"path": "GAME\\ITEM_PLAYER.png",
+			"md5": "D92E6A155AC70FA273812B8130DA1283"
+		},
+		{
+			"path": "GAME\\ITEM_RIGHT.png",
+			"md5": "215EAAF395B3846D97B7A216AA1532A0"
+		},
+		{
+			"path": "GAME\\ITEM_RIGHT2.png",
+			"md5": "215EAAF395B3846D97B7A216AA1532A0"
+		},
+		{
+			"path": "GAME\\ITEM_SHUTUP.png",
+			"md5": "9E0BCFC8186E7D424D945C97172F2024"
+		},
+		{
+			"path": "GAME\\MENU.png",
+			"md5": "CD3A7E771C4BDC0F123DD95296F556BC"
+		},
+		{
+			"path": "OBJECTS\\O_HERO\\PACK_000.png",
+			"md5": "C217062EF5572EA14B31C2EEFCE0F7B8"
+		},
+		{
+			"path": "OBJECTS\\O_HERO\\PACK_001.png",
+			"md5": "962320A8C50F5F42B9FAAECACC005CC7"
+		},
+		{
+			"path": "OBJECTS\\O_PIECE_TREE\\PACK_000.png",
+			"md5": "552B91D8AFC6E2543354EBBAFE0B6519"
+		},
+		{
+			"path": "PLAYERS\\P_HERO.png",
+			"md5": "49C8E988E6AB78310087C35011316E14"
+		},
+		{
+			"path": "SCENES\\S_ARBRE.png",
+			"md5": "F2A6FDF0373E46AE19B69DF354F386AA"
+		},
+		{
+			"path": "SCENES\\S_MAISON.png",
+			"md5": "19025CD458E4EF24EE4DAA50C3903DEE"
+		},
+		{
+			"path": "SCENES\\S_MEDIATHEQUE.png",
+			"md5": "A6FB7019EFF94CDE04D4FED672A6F9D3"
+		},
+		{
+			"path": "SCENES\\S_RUE.png",
+			"md5": "3B659DBBD8B6FAB7970EE5384142C71B"
+		}
+	]
+}

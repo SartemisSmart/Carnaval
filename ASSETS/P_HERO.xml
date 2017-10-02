@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<uid>P_HERO</uid>
+	<player>
+		<disableScroll>0</disableScroll>
+		<disableSmooth>1</disableSmooth>
+	</player>
+	<events/>
+</xml>
