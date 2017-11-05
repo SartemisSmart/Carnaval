@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
 	<uid>D_LIST</uid>
-	<dialog nextid="2">
+	<dialog nextid="3">
 		<sentence id="0" choice="1" hideBranch="0" goto="0" exit="0" hidden="0" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 			<text>
 				<English/>
@@ -15,10 +15,18 @@
 						<French>Alors, il me faut :
 - Un costume rouge spécial pour le carnaval
 - Une lanterne personnalisée
-- Mes feuilles de chorégraphie
-Ca devrait se trouver !</French>
+- Mes feuilles de chorégraphie</French>
 					</text>
 					<script/>
+					<sentences>
+						<sentence id="2" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" dir="FRONT" keepDir="1" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+							<text>
+								<English/>
+								<French>Bon, maintenant je peux aller en ville trouver tout cela !</French>
+							</text>
+							<script/>
+						</sentence>
+					</sentences>
 				</sentence>
 			</sentences>
 		</sentence>

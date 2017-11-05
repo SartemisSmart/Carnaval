@@ -4,6 +4,10 @@
 	<scene>
 		<zoom>50</zoom>
 		<postShader/>
+		<maskAPalette/>
+		<maskAHidden>0</maskAHidden>
+		<maskAShader/>
+		<maskASpeed>150</maskASpeed>
 	</scene>
 	<objects>
 		<O_HERO>
@@ -702,8 +706,8 @@
 	</objects>
 	<labels>
 		<BOUTIQUE>
-			<x>1334</x>
-			<y>328</y>
+			<x>1330</x>
+			<y>336</y>
 			<width>552</width>
 			<height>316</height>
 			<title>
@@ -717,10 +721,10 @@
 	</labels>
 	<doors>
 		<DOORHOUSE>
-			<x>833</x>
-			<y>440</y>
-			<width>142</width>
-			<height>244</height>
+			<x>844</x>
+			<y>420</y>
+			<width>140</width>
+			<height>276</height>
 			<title>
 				<English/>
 				<French>Vers la Maison des Deux Grand-Mères</French>
@@ -730,8 +734,8 @@
 			<locked>0</locked>
 		</DOORHOUSE>
 		<DOORMEDIA>
-			<x>2135</x>
-			<y>462</y>
+			<x>2141</x>
+			<y>466</y>
 			<width>206</width>
 			<height>217</height>
 			<title>

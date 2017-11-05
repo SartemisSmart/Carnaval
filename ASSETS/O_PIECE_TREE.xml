@@ -15,7 +15,7 @@
 			<French>Morceau de papier|Morceau de chorégraphie </French>
 		</title>
 		<disabled>0</disabled>
-		<palette1>Original</palette1>
+		<palette1>B&W Crunch</palette1>
 		<palette2/>
 		<palette3>Original</palette3>
 		<palette4/>
@@ -32,28 +32,9 @@
 			<LEFT count="0">
 				<frames/>
 			</LEFT>
-			<RIGHT count="20">
+			<RIGHT count="1">
 				<frames>
 					<frame md5="6785DBFC5F315BBDED5921E188D8F4AF" xtrim="14" ytrim="22" wtrim="152" htrim="140" xdraw="12" ydraw="20" wdraw="156" hdraw="144"/>
-					<frame md5="6785DBFC5F315BBDED5921E188D8F4AF" xtrim="14" ytrim="22" wtrim="152" htrim="140" xdraw="12" ydraw="20" wdraw="156" hdraw="144"/>
-					<frame md5="6785DBFC5F315BBDED5921E188D8F4AF" xtrim="14" ytrim="22" wtrim="152" htrim="140" xdraw="12" ydraw="20" wdraw="156" hdraw="144"/>
-					<frame md5="6785DBFC5F315BBDED5921E188D8F4AF" xtrim="14" ytrim="22" wtrim="152" htrim="140" xdraw="12" ydraw="20" wdraw="156" hdraw="144"/>
-					<frame md5="6785DBFC5F315BBDED5921E188D8F4AF" xtrim="14" ytrim="22" wtrim="152" htrim="140" xdraw="12" ydraw="20" wdraw="156" hdraw="144"/>
-					<frame md5="6785DBFC5F315BBDED5921E188D8F4AF" xtrim="14" ytrim="22" wtrim="152" htrim="140" xdraw="12" ydraw="20" wdraw="156" hdraw="144"/>
-					<frame md5="6F545081B317B0A4E1FC7795CDA68F3B" xtrim="14" ytrim="22" wtrim="148" htrim="140" xdraw="12" ydraw="20" wdraw="152" hdraw="144"/>
-					<frame md5="6F545081B317B0A4E1FC7795CDA68F3B" xtrim="14" ytrim="22" wtrim="148" htrim="140" xdraw="12" ydraw="20" wdraw="152" hdraw="144"/>
-					<frame md5="6F545081B317B0A4E1FC7795CDA68F3B" xtrim="14" ytrim="22" wtrim="148" htrim="140" xdraw="12" ydraw="20" wdraw="152" hdraw="144"/>
-					<frame md5="6F545081B317B0A4E1FC7795CDA68F3B" xtrim="14" ytrim="22" wtrim="148" htrim="140" xdraw="12" ydraw="20" wdraw="152" hdraw="144"/>
-					<frame md5="6F545081B317B0A4E1FC7795CDA68F3B" xtrim="14" ytrim="22" wtrim="148" htrim="140" xdraw="12" ydraw="20" wdraw="152" hdraw="144"/>
-					<frame md5="6F545081B317B0A4E1FC7795CDA68F3B" xtrim="14" ytrim="22" wtrim="148" htrim="140" xdraw="12" ydraw="20" wdraw="152" hdraw="144"/>
-					<frame md5="7AF7BE5AC988A50DE3131EBF0480D80D" xtrim="14" ytrim="22" wtrim="144" htrim="140" xdraw="12" ydraw="20" wdraw="148" hdraw="144"/>
-					<frame md5="7AF7BE5AC988A50DE3131EBF0480D80D" xtrim="14" ytrim="22" wtrim="144" htrim="140" xdraw="12" ydraw="20" wdraw="148" hdraw="144"/>
-					<frame md5="7AF7BE5AC988A50DE3131EBF0480D80D" xtrim="14" ytrim="22" wtrim="144" htrim="140" xdraw="12" ydraw="20" wdraw="148" hdraw="144"/>
-					<frame md5="7AF7BE5AC988A50DE3131EBF0480D80D" xtrim="14" ytrim="22" wtrim="144" htrim="140" xdraw="12" ydraw="20" wdraw="148" hdraw="144"/>
-					<frame md5="7AF7BE5AC988A50DE3131EBF0480D80D" xtrim="14" ytrim="22" wtrim="144" htrim="140" xdraw="12" ydraw="20" wdraw="148" hdraw="144"/>
-					<frame md5="7AF7BE5AC988A50DE3131EBF0480D80D" xtrim="14" ytrim="22" wtrim="144" htrim="140" xdraw="12" ydraw="20" wdraw="148" hdraw="144"/>
-					<frame md5="6F545081B317B0A4E1FC7795CDA68F3B" xtrim="14" ytrim="22" wtrim="148" htrim="140" xdraw="12" ydraw="20" wdraw="152" hdraw="144"/>
-					<frame md5="6F545081B317B0A4E1FC7795CDA68F3B" xtrim="14" ytrim="22" wtrim="148" htrim="140" xdraw="12" ydraw="20" wdraw="152" hdraw="144"/>
 				</frames>
 			</RIGHT>
 			<FRONT>
@@ -96,28 +77,9 @@
 	<packs>
 		<frames>
 			<frame pack="0" index="0" index2="-1" x="2" y="2" w="152" h="140"/>
-			<frame pack="0" index="6" index2="-1" x="2" y="146" w="148" h="140"/>
-			<frame pack="0" index="12" index2="-1" x="154" y="146" w="140" h="144" rotated="1"/>
-			<frame pack="0" index="1" index2="0"/>
-			<frame pack="0" index="2" index2="0"/>
-			<frame pack="0" index="3" index2="0"/>
-			<frame pack="0" index="4" index2="0"/>
-			<frame pack="0" index="5" index2="0"/>
-			<frame pack="0" index="7" index2="6"/>
-			<frame pack="0" index="8" index2="6"/>
-			<frame pack="0" index="9" index2="6"/>
-			<frame pack="0" index="10" index2="6"/>
-			<frame pack="0" index="11" index2="6"/>
-			<frame pack="0" index="13" index2="12"/>
-			<frame pack="0" index="14" index2="12"/>
-			<frame pack="0" index="15" index2="12"/>
-			<frame pack="0" index="16" index2="12"/>
-			<frame pack="0" index="17" index2="12"/>
-			<frame pack="0" index="18" index2="6"/>
-			<frame pack="0" index="19" index2="6"/>
 		</frames>
 		<packs>
-			<pack count="20" groupType="0"/>
+			<pack count="1" groupType="0"/>
 		</packs>
 	</packs>
 	<subs/>

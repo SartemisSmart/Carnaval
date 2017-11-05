@@ -36,15 +36,19 @@ Désolé !</French>
 		<forceHeight1024>0</forceHeight1024>
 		<package/>
 		<author>Bastien de L'Hermite</author>
-		<fontColor/>
+		<fontColor>White</fontColor>
 		<fontColorDoor>Gold</fontColorDoor>
 		<palette1>Original</palette1>
 		<audioLevel>None</audioLevel>
 		<inventoryIconVisible>1</inventoryIconVisible>
-		<contrast>1</contrast>
+		<contrast>0</contrast>
 		<mergeAudioText>0</mergeAudioText>
 		<fontColorMenu2>Gold</fontColorMenu2>
 		<helpScreen>1</helpScreen>
+		<fontColorMenu3>White</fontColorMenu3>
+		<fontColorMenu1>White</fontColorMenu1>
+		<fontColorHighlight>White</fontColorHighlight>
+		<splashDuration1>3</splashDuration1>
 	</game>
 	<android/>
 	<build>

@@ -2,12 +2,12 @@
 <xml>
 	<uid>S_MAISON</uid>
 	<scene>
-		<zoom>40</zoom>
+		<zoom>55</zoom>
 	</scene>
 	<objects>
 		<O_HERO>
-			<x>618</x>
-			<y>696</y>
+			<x>660</x>
+			<y>700</y>
 			<height3D>0</height3D>
 			<fixed3D>0</fixed3D>
 			<blend>None</blend>
@@ -17,36 +17,26 @@
 			<locked>0</locked>
 			<hidden>0</hidden>
 			<depths>
-				<depth y="368" scale="80" zoom="110" noScale="0" noZoom="0"/>
-				<depth y="672" scale="90" zoom="100" noScale="0" noZoom="0"/>
-				<depth y="976" scale="100" zoom="100" noScale="0" noZoom="0"/>
+				<depth y="368" scale="70" zoom="110" noScale="0" noZoom="0"/>
+				<depth y="672" scale="80" zoom="100" noScale="0" noZoom="0"/>
+				<depth y="976" scale="90" zoom="100" noScale="0" noZoom="0"/>
 			</depths>
 			<sheets>
 				<sheet>
-					<GOTORUE col="38" row="43" linkSelDoor_Door="DOORRUE"/>
-					<CELL col="38" row="44"/>
 					<GOTORUE col="39" row="43" linkSelDoor_Door="DOORRUE"/>
 					<CELL col="39" row="44"/>
-					<CELL col="38" row="45"/>
 					<CELL col="39" row="45"/>
-					<CELL col="38" row="46"/>
 					<CELL col="39" row="46"/>
 					<WALKIN col="39" row="47"/>
 					<CELL col="39" row="48"/>
 					<CELL col="39" row="49"/>
 					<CELL col="39" row="50"/>
 					<CELL col="39" row="51"/>
-					<CELL col="38" row="50"/>
-					<CELL col="38" row="51"/>
-					<CELL col="38" row="52"/>
 					<CELL col="39" row="52"/>
 					<CELL col="38" row="53"/>
 					<CELL col="39" row="53"/>
 					<CELL col="38" row="54"/>
 					<CELL col="39" row="54"/>
-					<WALKIN col="38" row="47"/>
-					<CELL col="38" row="48"/>
-					<CELL col="38" row="49"/>
 					<CELL col="38" row="55"/>
 					<CELL col="39" row="55"/>
 					<CELL col="38" row="56"/>
@@ -80,14 +70,8 @@
 					<CELL col="30" row="60"/>
 					<CELL col="28" row="59"/>
 					<CELL col="28" row="60"/>
-					<CELL col="27" row="59"/>
-					<CELL col="27" row="60"/>
-					<CELL col="26" row="59"/>
-					<CELL col="26" row="60"/>
-					<CELL col="25" row="59"/>
-					<CELL col="25" row="60"/>
-					<CELL col="24" row="59" linkSelLabel_Label="BOUGIES"/>
-					<CELL col="24" row="60" linkSelLabel_Label="BOUGIES"/>
+					<CELL col="27" row="59" linkSelLabel_Label="BOUGIES"/>
+					<CELL col="27" row="60" linkSelLabel_Label="BOUGIES"/>
 					<CELL col="40" row="52"/>
 					<CELL col="40" row="53"/>
 					<CELL col="41" row="52"/>
@@ -198,31 +182,17 @@
 					<CELL col="66" row="25"/>
 					<CELL col="65" row="24"/>
 					<CELL col="66" row="24"/>
-					<CELL col="65" row="23"/>
-					<CELL col="66" row="23"/>
-					<CELL col="67" row="23"/>
 					<CELL col="67" row="24"/>
-					<CELL col="68" row="23"/>
 					<CELL col="68" row="24"/>
-					<CELL col="69" row="23"/>
 					<CELL col="69" row="24"/>
-					<CELL col="70" row="23"/>
 					<CELL col="70" row="24"/>
-					<CELL col="71" row="23"/>
 					<CELL col="71" row="24"/>
-					<CELL col="72" row="23"/>
 					<CELL col="72" row="24"/>
-					<CELL col="73" row="23"/>
 					<CELL col="73" row="24"/>
-					<CELL col="74" row="23"/>
 					<CELL col="74" row="24"/>
-					<CELL col="75" row="23"/>
 					<CELL col="75" row="24"/>
-					<CELL col="76" row="23"/>
 					<CELL col="76" row="24"/>
-					<CELL col="77" row="23"/>
 					<CELL col="77" row="24"/>
-					<CELL col="78" row="23"/>
 					<CELL col="78" row="24"/>
 					<CELL col="77" row="25"/>
 					<CELL col="78" row="25"/>
@@ -238,84 +208,40 @@
 					<CELL col="82" row="26"/>
 					<CELL col="83" row="25"/>
 					<CELL col="83" row="26"/>
-					<CELL col="82" row="27"/>
-					<CELL col="83" row="27"/>
 					<CELL col="84" row="26"/>
-					<CELL col="84" row="27"/>
 					<CELL col="85" row="26"/>
-					<CELL col="85" row="27"/>
 					<CELL col="86" row="26"/>
-					<CELL col="86" row="27"/>
 					<CELL col="87" row="26"/>
-					<CELL col="87" row="27"/>
 					<CELL col="88" row="26"/>
-					<CELL col="88" row="27"/>
 					<CELL col="89" row="26"/>
-					<CELL col="89" row="27"/>
 					<CELL col="90" row="26"/>
-					<CELL col="90" row="27"/>
 					<CELL col="91" row="26"/>
-					<CELL col="91" row="27"/>
 					<CELL col="92" row="26"/>
-					<CELL col="92" row="27"/>
 					<CELL col="93" row="26"/>
-					<CELL col="93" row="27"/>
 					<CELL col="94" row="26"/>
-					<CELL col="94" row="27"/>
 					<CELL col="95" row="26"/>
-					<CELL col="95" row="27"/>
 					<CELL col="96" row="26"/>
-					<CELL col="96" row="27"/>
 					<CELL col="97" row="26"/>
-					<CELL col="97" row="27"/>
 					<CELL col="98" row="26"/>
-					<CELL col="98" row="27"/>
 					<CELL col="99" row="26"/>
-					<CELL col="99" row="27"/>
-					<CELL col="100" row="27"/>
-					<CELL col="101" row="27"/>
-					<CELL col="104" row="27"/>
-					<CELL col="105" row="27"/>
-					<CELL col="106" row="27"/>
 					<CELL col="105" row="26"/>
 					<CELL col="106" row="26"/>
 					<CELL col="107" row="26"/>
-					<CELL col="107" row="27"/>
 					<CELL col="108" row="26"/>
-					<CELL col="108" row="27"/>
 					<CELL col="109" row="26"/>
-					<CELL col="109" row="27"/>
 					<CELL col="110" row="26"/>
-					<CELL col="110" row="27"/>
 					<CELL col="111" row="26"/>
-					<CELL col="111" row="27"/>
 					<CELL col="104" row="26"/>
 					<CELL col="103" row="26"/>
-					<CELL col="103" row="27"/>
 					<CELL col="102" row="26"/>
-					<CELL col="102" row="27"/>
 					<CELL col="100" row="26"/>
 					<CELL col="101" row="26"/>
 					<CELL col="112" row="26"/>
-					<CELL col="112" row="27"/>
 					<CELL col="113" row="26"/>
-					<CELL col="113" row="27"/>
 					<CELL col="114" row="26"/>
-					<CELL col="114" row="27"/>
 					<CELL col="115" row="26"/>
-					<CELL col="115" row="27"/>
 					<CELL col="116" row="26"/>
-					<CELL col="116" row="27"/>
-					<CELL col="117" row="26"/>
-					<CELL col="117" row="27"/>
-					<CELL col="118" row="26"/>
-					<CELL col="118" row="27"/>
-					<CELL col="119" row="26"/>
-					<CELL col="120" row="26"/>
-					<CELL col="121" row="26" linkSelLabel_Label="COUSSIN"/>
-					<CELL col="120" row="27"/>
-					<CELL col="121" row="27" linkSelLabel_Label="COUSSIN"/>
-					<CELL col="119" row="27"/>
+					<CELL col="117" row="26" linkSelLabel_Label="BILLY"/>
 					<CELL col="67" row="52"/>
 					<CELL col="67" row="53"/>
 					<CELL col="68" row="52"/>
@@ -404,57 +330,6 @@
 					<CELL col="107" row="51"/>
 					<CELL col="106" row="49"/>
 					<CELL col="107" row="49"/>
-					<CELL col="106" row="48"/>
-					<CELL col="107" row="48"/>
-					<CELL col="106" row="47"/>
-					<CELL col="107" row="47"/>
-					<CELL col="106" row="46"/>
-					<CELL col="107" row="46"/>
-					<CELL col="108" row="46"/>
-					<CELL col="108" row="47"/>
-					<CELL col="109" row="46"/>
-					<CELL col="109" row="47"/>
-					<CELL col="110" row="46"/>
-					<CELL col="110" row="47"/>
-					<CELL col="111" row="46"/>
-					<CELL col="111" row="47"/>
-					<CELL col="112" row="46"/>
-					<CELL col="112" row="47"/>
-					<CELL col="113" row="46"/>
-					<CELL col="113" row="47"/>
-					<CELL col="114" row="46"/>
-					<CELL col="114" row="47"/>
-					<CELL col="115" row="46"/>
-					<CELL col="115" row="47"/>
-					<CELL col="116" row="46"/>
-					<CELL col="116" row="47"/>
-					<CELL col="117" row="46"/>
-					<CELL col="117" row="47"/>
-					<CELL col="118" row="46"/>
-					<CELL col="118" row="47"/>
-					<CELL col="119" row="46"/>
-					<CELL col="119" row="47"/>
-					<CELL col="120" row="46"/>
-					<CELL col="120" row="47"/>
-					<CELL col="119" row="45"/>
-					<CELL col="120" row="45" linkSelLabel_Label="LINGE"/>
-					<CELL col="121" row="45" linkSelLabel_Label="LINGE"/>
-					<CELL col="121" row="46"/>
-					<CELL col="121" row="47"/>
-					<CELL col="122" row="45" linkSelLabel_Label="LINGE"/>
-					<CELL col="122" row="46"/>
-					<CELL col="123" row="45"/>
-					<CELL col="123" row="46"/>
-					<CELL col="122" row="47"/>
-					<CELL col="123" row="47"/>
-					<CELL col="124" row="46"/>
-					<CELL col="124" row="47"/>
-					<CELL col="125" row="46"/>
-					<CELL col="125" row="47"/>
-					<CELL col="126" row="46"/>
-					<CELL col="126" row="47"/>
-					<CELL col="127" row="46"/>
-					<CELL col="127" row="47"/>
 					<GOTORUE col="40" row="43" linkSelDoor_Door="DOORRUE"/>
 					<CELL col="40" row="44"/>
 					<CELL col="40" row="45"/>
@@ -464,9 +339,71 @@
 					<CELL col="40" row="49"/>
 					<CELL col="40" row="50"/>
 					<CELL col="40" row="51"/>
+					<CELL col="110" row="48"/>
+					<CELL col="111" row="48"/>
+					<CELL col="112" row="48"/>
+					<CELL col="113" row="48"/>
+					<CELL col="114" row="48"/>
+					<CELL col="115" row="48"/>
+					<CELL col="116" row="48"/>
+					<CELL col="117" row="48"/>
+					<CELL col="118" row="48"/>
+					<CELL col="119" row="48"/>
+					<CELL col="120" row="48" linkSelLabel_Label="LINGE"/>
+					<CELL col="121" row="48" linkSelLabel_Label="LINGE"/>
+					<CELL col="122" row="48" linkSelLabel_Label="LINGE"/>
+					<CELL col="123" row="48"/>
+					<CELL col="124" row="48"/>
+					<CELL col="125" row="48"/>
+					<CELL col="126" row="48"/>
+					<CELL col="127" row="48"/>
+					<CELL col="106" row="48"/>
+					<CELL col="107" row="48"/>
+					<CELL col="108" row="48"/>
+					<CELL col="109" row="48"/>
+					<CELL col="108" row="49"/>
+					<CELL col="109" row="49"/>
+					<CELL col="110" row="49"/>
+					<CELL col="111" row="49"/>
+					<CELL col="112" row="49"/>
+					<CELL col="113" row="49"/>
+					<CELL col="114" row="49"/>
+					<CELL col="115" row="49"/>
+					<CELL col="116" row="49"/>
+					<CELL col="117" row="49"/>
+					<CELL col="118" row="49"/>
+					<CELL col="119" row="49"/>
+					<CELL col="120" row="49"/>
+					<CELL col="121" row="49"/>
+					<CELL col="122" row="49"/>
+					<CELL col="123" row="49"/>
+					<CELL col="124" row="49"/>
+					<CELL col="125" row="49"/>
+					<CELL col="126" row="49"/>
+					<CELL col="127" row="49"/>
+					<CELL col="128" row="48"/>
 				</sheet>
 			</sheets>
 		</O_HERO>
+		<O_BILLY>
+			<x>2041</x>
+			<y>398</y>
+			<height3D>30</height3D>
+			<fixed3D>0</fixed3D>
+			<blend>None</blend>
+			<hud>0</hud>
+			<speedX>0</speedX>
+			<speedY>0</speedY>
+			<locked>0</locked>
+			<hidden>0</hidden>
+			<depths>
+				<depth y="0" scale="60" zoom="100" noScale="0" noZoom="0"/>
+				<depth y="1088" scale="60" zoom="100" noScale="0" noZoom="0"/>
+			</depths>
+			<sheets>
+				<sheet/>
+			</sheets>
+		</O_BILLY>
 	</objects>
 	<labels>
 		<BOUGIES>
@@ -495,19 +432,19 @@
 			<forward>0</forward>
 			<locked>0</locked>
 		</LINGE>
-		<COUSSIN>
-			<x>1950</x>
-			<y>312</y>
-			<width>312</width>
-			<height>133</height>
+		<BILLY>
+			<x>1967</x>
+			<y>267</y>
+			<width>225</width>
+			<height>147</height>
 			<title>
 				<English/>
-				<French>Le coussin du chien</French>
+				<French>Billy</French>
 			</title>
 			<showTitle>0</showTitle>
 			<forward>0</forward>
 			<locked>0</locked>
-		</COUSSIN>
+		</BILLY>
 	</labels>
 	<doors>
 		<DOORRUE>
@@ -529,9 +466,9 @@
 		<event name="DOOR" param1="DOORRUE">jump S_RUE</event>
 		<event name="LABEL" param1="BOUGIES">talk D_BOUGIES</event>
 		<event name="LABEL" param1="LINGE">talk D_LINGE</event>
-		<event name="LABEL" param1="COUSSIN">talk D_COUSSIN</event>
 		<event name="USE" param1="O_NOTES" param2="O_HERO">talk D_LIST</event>
 		<event name="USE" param1="O_PIECE_TREE" param2="O_HERO">talk D_CHORE</event>
+		<event name="LABEL" param1="BILLY">talk D_BILLY</event>
 	</events>
 	<goals/>
 </xml>

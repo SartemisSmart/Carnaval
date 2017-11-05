@@ -2,7 +2,7 @@
 <xml>
 	<uid>S_ARBRE</uid>
 	<scene>
-		<zoom>45</zoom>
+		<zoom>40</zoom>
 	</scene>
 	<objects>
 		<O_HERO>
@@ -143,7 +143,7 @@
 					<CELL col="119" row="47"/>
 					<CELL col="120" row="46"/>
 					<CELL col="121" row="46"/>
-					<CELL col="122" row="46"/>
+					<CELL col="122" row="46" linkSelDoor_Door="DOORRUE"/>
 					<CELL col="55" row="51"/>
 					<CELL col="56" row="51"/>
 					<CELL col="67" row="52"/>
@@ -157,7 +157,6 @@
 					<CELL col="96" row="51"/>
 					<CELL col="97" row="51"/>
 					<CELL col="96" row="50"/>
-					<ENTER col="123" row="46" linkSelDoor_Door="DOORRUE"/>
 					<CELL col="41" row="38"/>
 					<CELL col="41" row="39"/>
 					<CELL col="41" row="40"/>
@@ -209,7 +208,7 @@
 					<CELL col="51" row="50"/>
 					<CELL col="52" row="50"/>
 					<CELL col="53" row="50"/>
-					<CELL col="122" row="47"/>
+					<CELL col="122" row="47" linkSelDoor_Door="DOORRUE"/>
 					<CELL col="32" row="48"/>
 					<CELL col="31" row="48"/>
 					<CELL col="30" row="48"/>
@@ -268,7 +267,6 @@
 					<CELL col="91" row="51"/>
 					<CELL col="92" row="51"/>
 					<CELL col="95" row="50"/>
-					<ENTER col="123" row="47" linkSelDoor_Door="DOORRUE"/>
 					<CELL col="41" row="46"/>
 					<CELL col="41" row="45"/>
 					<CELL col="41" row="44"/>
@@ -310,8 +308,8 @@
 			</sheets>
 		</O_HERO>
 		<O_PIECE_TREE>
-			<x>870</x>
-			<y>450</y>
+			<x>866</x>
+			<y>445</y>
 			<height3D>0</height3D>
 			<fixed3D>0</fixed3D>
 			<blend>None</blend>
@@ -403,7 +401,14 @@ else
 	move O_HERO BEGINNING
 	talk D_INTRO
 end</event>
-		<event name="DOOR" param1="DOORRUE">jump S_RUE</event>
+		<event name="DOOR" param1="DOORRUE">if isResolved READ_LIST
+	jump S_RUE
+	talk D_TUTO_DONE
+else 
+	talk D_READ_LIST
+end
+
+</event>
 		<event name="LABEL" param1="ARBRE">walk O_HERO BEGINNING
 talk D_ARBRE</event>
 		<event name="LABEL" param1="VOLCANS">talk D_VOLCANS</event>
@@ -412,9 +417,10 @@ talk D_ARBRE</event>
 		<event name="SELECT" param1="O_PIECE_TREE">takeWithFx P_HERO O_PIECE_TREE
 setTitle O_PIECE_TREE 1
 talk D_PIECE_TREE
-talk D_TUTO</event>
+success GET_PIECE_CHOREGRAPHY_TREE</event>
 		<event name="USE" param1="O_PIECE_TREE" param2="O_HERO">talk D_CHORE</event>
-		<event name="USE" param1="O_NOTES" param2="O_HERO">talk D_LIST</event>
+		<event name="USE" param1="O_NOTES" param2="O_HERO">talk D_LIST
+success READ_LIST</event>
 	</events>
 	<goals/>
 </xml>

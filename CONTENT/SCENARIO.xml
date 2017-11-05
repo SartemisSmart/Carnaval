@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
 	<graph>
-		<board nextid="83" x="964" y="197"/>
-		<box type="257" id="1" name="START" expanded="0" x="-840" y="-40" scriptExit="Ly8gQXNzaWduIGFuIG9iamVjdCB0byB0aGUgcGxheWVyDQpjb250cm9sIFBfSEVSTyBPX0hFUk8NCg0KLy8gQ2hhbmdlIHRoZSBjdXJyZW50IHBsYXllcg0Kc3dpdGNoIFBfSEVSTw0KDQovLyBDaGFuZ2UgdGhlIGN1cnJlbnQgc2NlbmUNCmp1bXAgU19BUkJSRQ=" success="0">
+		<board nextid="89" x="706" y="176"/>
+		<box type="257" id="1" name="START" expanded="0" x="-728" y="-32" scriptExit="Ly8gQXNzaWduIGFuIG9iamVjdCB0byB0aGUgcGxheWVyDQpjb250cm9sIFBfSEVSTyBPX0hFUk8NCg0KLy8gQ2hhbmdlIHRoZSBjdXJyZW50IHBsYXllcg0Kc3dpdGNoIFBfSEVSTw0KDQovLyBDaGFuZ2UgdGhlIGN1cnJlbnQgc2NlbmUNCmp1bXAgU19BUkJSRQ=" success="1">
 			<plug id="2" type="3" visible="1" enabled="1">
 				<trg id="78"/>
 				<trg id="81"/>
@@ -17,7 +17,7 @@
 				<trg id="12"/>
 			</plug>
 		</box>
-		<box type="258" id="8" name="GO_TO_TOWN" expanded="1" x="-408" y="-32" scriptEnter="anVtcCBTX1JVRQ=" success="0">
+		<box type="258" id="8" name="END_TUTORIAL" expanded="1" x="-408" y="-32" success="1">
 			<plug id="9" type="2" visible="1" enabled="1"/>
 			<plug id="10" type="3" visible="1" enabled="1">
 				<trg id="6"/>
@@ -149,13 +149,13 @@
 				<trg id="72"/>
 			</plug>
 		</box>
-		<box type="256" id="77" name="READ_LIST" expanded="1" x="-608" y="-56" scriptEnter="Ly9Mb2FkIHRoZSBpbnZlbnRvcnkNCnRha2UgUF9IRVJPIE9fTk9URVM=" success="0">
+		<box type="256" id="77" name="READ_LIST" expanded="1" x="-576" y="-64" scriptEnter="Ly9Mb2FkIHRoZSBpbnZlbnRvcnkNCnRha2UgUF9IRVJPIE9fRklSRV9QT1dFUg0KdGFrZSBQX0hFUk8gT19OT1RFUw0KdGFrZSBQX0hFUk8gT19ET0dfQklTQ1VJVA0KdGFrZSBQX0hFUk8gT19USUNLRVRfQ09TVFVNRQ0KdGFrZSBQX0hFUk8gT19NRURJQV9DQVJE=" success="1">
 			<plug id="78" type="2" visible="1" enabled="1"/>
 			<plug id="79" type="3" visible="1" enabled="1">
 				<trg id="9"/>
 			</plug>
 		</box>
-		<box type="256" id="80" name="GET_PIECE_CHOREGRAPHY_TREE" expanded="1" x="-664" y="0" success="0">
+		<box type="256" id="80" name="GET_PIECE_CHOREGRAPHY_TREE" expanded="1" x="-624" y="8" success="0">
 			<plug id="81" type="2" visible="1" enabled="1"/>
 			<plug id="82" type="3" visible="1" enabled="1">
 				<trg id="9"/>

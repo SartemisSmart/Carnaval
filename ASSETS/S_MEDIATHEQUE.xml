@@ -326,6 +326,22 @@
 				</sheet>
 			</sheets>
 		</O_HERO>
+		<O_LIBRARIAN>
+			<x>911</x>
+			<y>548</y>
+			<height3D>0</height3D>
+			<fixed3D>0</fixed3D>
+			<blend>None</blend>
+			<hud>0</hud>
+			<speedX>0</speedX>
+			<speedY>0</speedY>
+			<locked>0</locked>
+			<hidden>0</hidden>
+			<depths>
+				<depth y="0" scale="90" zoom="100" noScale="0" noZoom="0"/>
+				<depth y="1072" scale="100" zoom="100" noScale="0" noZoom="0"/>
+			</depths>
+		</O_LIBRARIAN>
 	</objects>
 	<labels/>
 	<doors>
