@@ -2,7 +2,7 @@
 <xml>
 	<uid>S_MAISON</uid>
 	<scene>
-		<zoom>55</zoom>
+		<zoom>45</zoom>
 	</scene>
 	<objects>
 		<O_HERO>
@@ -386,8 +386,8 @@
 			</sheets>
 		</O_HERO>
 		<O_BILLY>
-			<x>2041</x>
-			<y>398</y>
+			<x>2061</x>
+			<y>365</y>
 			<height3D>30</height3D>
 			<fixed3D>0</fixed3D>
 			<blend>None</blend>
@@ -420,8 +420,8 @@
 			<locked>0</locked>
 		</BOUGIES>
 		<LINGE>
-			<x>1770</x>
-			<y>515</y>
+			<x>1727</x>
+			<y>522</y>
 			<width>507</width>
 			<height>197</height>
 			<title>
@@ -433,7 +433,7 @@
 			<locked>0</locked>
 		</LINGE>
 		<BILLY>
-			<x>1967</x>
+			<x>1965</x>
 			<y>267</y>
 			<width>225</width>
 			<height>147</height>
@@ -462,12 +462,12 @@
 		</DOORRUE>
 	</doors>
 	<events>
-		<event name="ENTER" param1="S_MAISON">walk O_HERO WALKIN</event>
-		<event name="DOOR" param1="DOORRUE">jump S_RUE</event>
-		<event name="LABEL" param1="BOUGIES">talk D_BOUGIES</event>
-		<event name="LABEL" param1="LINGE">talk D_LINGE</event>
-		<event name="USE" param1="O_NOTES" param2="O_HERO">talk D_LIST</event>
-		<event name="USE" param1="O_PIECE_TREE" param2="O_HERO">talk D_CHORE</event>
+		<event name="ENTER" param="S_MAISON">walk O_HERO WALKIN</event>
+		<event name="DOOR" param="DOORRUE">jump S_RUE</event>
+		<event name="LABEL" param="BOUGIES">talk D_BOUGIES</event>
+		<event name="LABEL" param="LINGE">talk D_LINGE</event>
+		<event name="USE" param="O_NOTES" param2="O_HERO">talk D_LIST</event>
+		<event name="USE" param="O_PIECE_TREE" param2="O_HERO">talk D_CHORE</event>
 		<event name="LABEL" param1="BILLY">talk D_BILLY</event>
 	</events>
 	<goals/>

@@ -2,7 +2,7 @@
 <xml>
 	<uid>S_ARBRE</uid>
 	<scene>
-		<zoom>40</zoom>
+		<zoom>45</zoom>
 	</scene>
 	<objects>
 		<O_HERO>
@@ -406,9 +406,7 @@ end</event>
 	talk D_TUTO_DONE
 else 
 	talk D_READ_LIST
-end
-
-</event>
+end</event>
 		<event name="LABEL" param1="ARBRE">walk O_HERO BEGINNING
 talk D_ARBRE</event>
 		<event name="LABEL" param1="VOLCANS">talk D_VOLCANS</event>

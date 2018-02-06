@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<uid>O_LIBRARIAN</uid>
+	<object>
+		<bbox>1</bbox>
+		<width>422</width>
+		<height>360</height>
+		<x>200</x>
+		<y>270</y>
+		<maxScale>-1</maxScale>
+		<clone/>
+		<speech>White</speech>
+		<title>
+			<English/>
+			<French/>
+		</title>
+		<disabled>0</disabled>
+		<palette1/>
+		<palette2/>
+		<palette3/>
+		<palette4/>
+		<speedx>0</speedx>
+		<speedy>0</speedy>
+		<ghost>0</ghost>
+		<ghostRate>20</ghostRate>
+		<ghostCount>8</ghostCount>
+		<turning>0</turning>
+		<turningFPS>10</turningFPS>
+	</object>
+	<anims>
+		<STOP fps="6" loopCount="-1" loopRangeMin="0" loopRangeMax="-1" loopRangeCount="0" linkFrame="-1" flip="0" groupType="0">
+			<LEFT>
+				<frames/>
+			</LEFT>
+			<RIGHT count="9">
+				<frames>
+					<frame md5="1256DC336878F37AA910A9C3C4C2CAFD" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="1256DC336878F37AA910A9C3C4C2CAFD" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="9D11AB1AF9397CF3B756E1A132FE3605" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="C5E3920C201CAF78B36861A3F5875370" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="33E211A23E40FF6CEDD7AFA028682E6D" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="C9E62CA70FCBD0902E299457E50D2BE7" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="C4B57983422A7440FCEAD7C99D6C3E74" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="C4B57983422A7440FCEAD7C99D6C3E74" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="CB648393760D1EAF1266BD1D34EEBC93" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+				</frames>
+			</RIGHT>
+			<FRONT>
+				<frames/>
+			</FRONT>
+			<BACK>
+				<frames/>
+			</BACK>
+		</STOP>
+		<WALK fps="6" loopCount="-1">
+			<LEFT>
+				<frames/>
+			</LEFT>
+			<RIGHT>
+				<frames/>
+			</RIGHT>
+			<FRONT>
+				<frames/>
+			</FRONT>
+			<BACK>
+				<frames/>
+			</BACK>
+		</WALK>
+		<TALK fps="6" loopCount="-1">
+			<LEFT>
+				<frames/>
+			</LEFT>
+			<RIGHT>
+				<frames/>
+			</RIGHT>
+			<FRONT>
+				<frames/>
+			</FRONT>
+			<BACK>
+				<frames/>
+			</BACK>
+		</TALK>
+	</anims>
+	<events/>
+	<packs>
+		<frames>
+			<frame pack="0" index="0" index2="-1" x="2" y="2" w="146" h="198"/>
+			<frame pack="0" index="2" index2="-1" x="2" y="204" w="146" h="198"/>
+			<frame pack="0" index="3" index2="-1" x="152" y="2" w="146" h="198"/>
+			<frame pack="0" index="4" index2="-1" x="302" y="2" w="146" h="198"/>
+			<frame pack="0" index="5" index2="-1" x="152" y="204" w="146" h="198"/>
+			<frame pack="0" index="6" index2="-1" x="302" y="204" w="146" h="198"/>
+			<frame pack="0" index="8" index2="-1" x="302" y="406" w="198" h="146" rotated="1"/>
+			<frame pack="0" index="1" index2="0"/>
+			<frame pack="0" index="7" index2="6"/>
+		</frames>
+		<packs>
+			<pack count="9" groupType="0"/>
+		</packs>
+	</packs>
+	<subs/>
+</xml>

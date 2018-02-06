@@ -44,34 +44,6 @@
 				<frames/>
 			</BACK>
 		</STOP>
-		<WALK fps="6" loopCount="-1">
-			<LEFT>
-				<frames/>
-			</LEFT>
-			<RIGHT>
-				<frames/>
-			</RIGHT>
-			<FRONT>
-				<frames/>
-			</FRONT>
-			<BACK>
-				<frames/>
-			</BACK>
-		</WALK>
-		<TALK fps="6" loopCount="-1">
-			<LEFT>
-				<frames/>
-			</LEFT>
-			<RIGHT>
-				<frames/>
-			</RIGHT>
-			<FRONT>
-				<frames/>
-			</FRONT>
-			<BACK>
-				<frames/>
-			</BACK>
-		</TALK>
 	</anims>
 	<events/>
 	<packs>
