@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<uid>D_TUTO_DONE</uid>
+	<dialog nextid="5">
+		<sentence id="0" choice="1" hideBranch="0" goto="0" exit="0" hidden="0" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+			<text>
+				<English/>
+				<French/>
+			</text>
+			<script/>
+			<sentences>
+				<sentence id="1" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" keepDir="0" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+					<text>
+						<English/>
+						<French>Okay. 
+C'est bon, on se détend...
+1) Je récupère tout ce qu'il me faut.
+2) J'essaie de comprendre le carnaval pour ne pas me sentir illégitime.
+3) J'y participe, et ça rassurera papa et maman.</French>
+					</text>
+					<script/>
+					<sentences>
+						<sentence id="2" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" dir="FRONT" keepDir="1" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+							<text>
+								<English/>
+								<French>Je peux le faire ! 
+Du moins, je l'espère...
+</French>
+							</text>
+							<script/>
+							<sentences>
+								<sentence id="4" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" dir="RIGHT" keepDir="0" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+									<text>
+										<English/>
+										<French>Je devrais également passer voir ma grand-tante, elle habite dans cette maison en face. 
+Elle a toujours vécu à Anar, elle saura m'aider.</French>
+									</text>
+									<script/>
+								</sentence>
+							</sentences>
+						</sentence>
+					</sentences>
+				</sentence>
+			</sentences>
+		</sentence>
+		<scripts>
+			<enter/>
+			<exit/>
+		</scripts>
+	</dialog>
+</xml>

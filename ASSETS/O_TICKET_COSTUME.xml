@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<uid>O_TICKET_COSTUME</uid>
+	<object>
+		<bbox>1</bbox>
+		<width>200</width>
+		<height>200</height>
+		<x>60</x>
+		<y>95</y>
+		<maxScale>-1</maxScale>
+		<clone/>
+		<speech>White</speech>
+		<title>
+			<English/>
+			<French>Bon pour un costume</French>
+		</title>
+		<disabled>0</disabled>
+		<palette1/>
+		<palette2/>
+		<palette3/>
+		<palette4/>
+		<speedx>0</speedx>
+		<speedy>0</speedy>
+		<ghost>0</ghost>
+		<ghostRate>20</ghostRate>
+		<ghostCount>8</ghostCount>
+		<turning>0</turning>
+		<turningFPS>10</turningFPS>
+	</object>
+	<anims>
+		<STOP fps="6" loopCount="-1" loopRangeMin="0" loopRangeMax="-1" loopRangeCount="0" linkFrame="-1" flip="0" groupType="0">
+			<LEFT>
+				<frames/>
+			</LEFT>
+			<RIGHT count="1">
+				<frames>
+					<frame md5="B4A692E0AD8CDBB3625BF2DB1B822677" xtrim="16" ytrim="8" wtrim="170" htrim="184" xdraw="14" ydraw="6" wdraw="174" hdraw="188"/>
+				</frames>
+			</RIGHT>
+			<FRONT>
+				<frames/>
+			</FRONT>
+			<BACK>
+				<frames/>
+			</BACK>
+		</STOP>
+		<WALK fps="6" loopCount="-1">
+			<LEFT>
+				<frames/>
+			</LEFT>
+			<RIGHT>
+				<frames/>
+			</RIGHT>
+			<FRONT>
+				<frames/>
+			</FRONT>
+			<BACK>
+				<frames/>
+			</BACK>
+		</WALK>
+		<TALK fps="6" loopCount="-1">
+			<LEFT>
+				<frames/>
+			</LEFT>
+			<RIGHT>
+				<frames/>
+			</RIGHT>
+			<FRONT>
+				<frames/>
+			</FRONT>
+			<BACK>
+				<frames/>
+			</BACK>
+		</TALK>
+	</anims>
+	<events/>
+	<packs>
+		<frames>
+			<frame pack="0" index="0" index2="-1" x="2" y="2" w="170" h="184"/>
+		</frames>
+		<packs>
+			<pack count="1" groupType="0"/>
+		</packs>
+	</packs>
+	<subs/>
+</xml>

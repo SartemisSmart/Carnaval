@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<uid>D_BILLY</uid>
+	<dialog nextid="12">
+		<sentence id="0" choice="1" hideBranch="0" goto="0" exit="0" hidden="0" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+			<text>
+				<English/>
+				<French/>
+			</text>
+			<script/>
+			<sentences>
+				<sentence id="2" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" keepDir="0" anim="TALK" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+					<text>
+						<English/>
+						<French>Petit monstre !
+Je connais la technique du sommeil, si tu crois m'avoir avec ça.
+C'est moi qui l'ai inventée !</French>
+					</text>
+					<script/>
+					<sentences>
+						<sentence id="3" choice="1" hideBranch="0" goto="0" exit="0" hidden="0" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+							<text>
+								<English/>
+								<French>Alors, quelque chose à dire pour ta défense ?!</French>
+							</text>
+							<script/>
+							<sentences>
+								<sentence id="9" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_BILLY" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+									<text>
+										<English/>
+										<French>Zzz... *ronfle*</French>
+									</text>
+									<script/>
+									<sentences>
+										<sentence id="10" choice="0" hideBranch="0" goto="0" exit="1" hidden="0" speaker="O_HERO" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+											<text>
+												<English/>
+												<French>Ouais, ouais...</French>
+											</text>
+											<script/>
+										</sentence>
+									</sentences>
+								</sentence>
+							</sentences>
+						</sentence>
+						<sentence id="4" choice="1" hideBranch="0" goto="0" exit="0" hidden="0" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+							<text>
+								<English/>
+								<French>Tu veux un biscuit ?</French>
+							</text>
+							<script/>
+							<sentences>
+								<sentence id="8" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_BILLY" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+									<text>
+										<English/>
+										<French>Arf arf... *halètement content*</French>
+									</text>
+									<script/>
+									<sentences>
+										<sentence id="11" choice="0" hideBranch="0" goto="0" exit="1" hidden="0" speaker="O_HERO" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+											<text>
+												<English/>
+												<French>Pff...</French>
+											</text>
+											<script/>
+										</sentence>
+									</sentences>
+								</sentence>
+							</sentences>
+						</sentence>
+					</sentences>
+				</sentence>
+			</sentences>
+		</sentence>
+		<scripts>
+			<enter/>
+			<exit/>
+		</scripts>
+	</dialog>
+</xml>

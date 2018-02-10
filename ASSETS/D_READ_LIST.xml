@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<uid>D_READ_LIST</uid>
+	<dialog nextid="3">
+		<sentence id="0" choice="1" hideBranch="0" goto="0" exit="0" hidden="0" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+			<text>
+				<English/>
+				<French/>
+			</text>
+			<script/>
+			<sentences>
+				<sentence id="1" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" keepDir="0" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+					<text>
+						<English/>
+						<French>Pas si vite !
+Je devrais lire ma liste avant de rejoindre la ville.
+Sinon, je vais encore tout oublier...</French>
+					</text>
+					<script/>
+					<sentences>
+						<sentence id="2" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="VOICE-OVER" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
+							<text>
+								<English/>
+								<French>Pour REGARDER un objet en ta possession, clique sur l'ICÔNE INVENTAIRE en haut à droite de l'écan et GLISSE l'objet sur ton personnage.
+</French>
+							</text>
+							<script/>
+						</sentence>
+					</sentences>
+				</sentence>
+			</sentences>
+		</sentence>
+		<scripts>
+			<enter/>
+			<exit/>
+		</scripts>
+	</dialog>
+</xml>
