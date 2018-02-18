@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
 	<graph>
-		<board nextid="89" x="706" y="176"/>
+		<board nextid="89" x="1090" y="176"/>
 		<box type="257" id="1" name="START" expanded="0" x="-728" y="-32" scriptExit="Ly8gQXNzaWduIGFuIG9iamVjdCB0byB0aGUgcGxheWVyDQpjb250cm9sIFBfSEVSTyBPX0hFUk8NCg0KLy8gQ2hhbmdlIHRoZSBjdXJyZW50IHBsYXllcg0Kc3dpdGNoIFBfSEVSTw0KDQovLyBDaGFuZ2UgdGhlIGN1cnJlbnQgc2NlbmUNCmp1bXAgU19BUkJSRQ=" success="1">
 			<plug id="2" type="3" visible="1" enabled="1">
 				<trg id="78"/>
@@ -155,7 +155,7 @@
 				<trg id="9"/>
 			</plug>
 		</box>
-		<box type="256" id="80" name="GET_PIECE_CHOREGRAPHY_TREE" expanded="1" x="-624" y="8" success="0">
+		<box type="256" id="80" name="GET_PIECE_CHOREGRAPHY_TREE" expanded="1" x="-624" y="8" success="1">
 			<plug id="81" type="2" visible="1" enabled="1"/>
 			<plug id="82" type="3" visible="1" enabled="1">
 				<trg id="9"/>

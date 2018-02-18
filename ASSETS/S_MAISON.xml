@@ -2,7 +2,7 @@
 <xml>
 	<uid>S_MAISON</uid>
 	<scene>
-		<zoom>55</zoom>
+		<zoom>45</zoom>
 	</scene>
 	<objects>
 		<O_HERO>
@@ -182,16 +182,6 @@
 					<CELL col="66" row="25"/>
 					<CELL col="65" row="24"/>
 					<CELL col="66" row="24"/>
-					<CELL col="67" row="24"/>
-					<CELL col="68" row="24"/>
-					<CELL col="69" row="24"/>
-					<CELL col="70" row="24"/>
-					<CELL col="71" row="24"/>
-					<CELL col="72" row="24"/>
-					<CELL col="73" row="24"/>
-					<CELL col="74" row="24"/>
-					<CELL col="75" row="24"/>
-					<CELL col="76" row="24"/>
 					<CELL col="77" row="24"/>
 					<CELL col="78" row="24"/>
 					<CELL col="77" row="25"/>
@@ -382,6 +372,20 @@
 					<CELL col="126" row="49"/>
 					<CELL col="127" row="49"/>
 					<CELL col="128" row="48"/>
+					<CELL col="65" row="23"/>
+					<CELL col="66" row="23"/>
+					<CELL col="67" row="23"/>
+					<CELL col="71" row="23"/>
+					<CELL col="68" row="23"/>
+					<CELL col="69" row="23"/>
+					<CELL col="70" row="23"/>
+					<CELL col="72" row="23"/>
+					<CELL col="73" row="23"/>
+					<CELL col="74" row="23"/>
+					<CELL col="75" row="23"/>
+					<CELL col="76" row="23"/>
+					<CELL col="77" row="23"/>
+					<CELL col="78" row="23"/>
 				</sheet>
 			</sheets>
 		</O_HERO>

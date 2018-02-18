@@ -3,7 +3,7 @@
 	<uid>P_HERO</uid>
 	<player>
 		<disableScroll>0</disableScroll>
-		<disableSmooth>1</disableSmooth>
+		<disableSmooth>0</disableSmooth>
 	</player>
 	<events/>
 </xml>

@@ -3,10 +3,10 @@
 	<uid>O_PIECE_TREE</uid>
 	<object>
 		<bbox>0</bbox>
-		<width>200</width>
-		<height>200</height>
-		<x>80</x>
-		<y>100</y>
+		<width>112</width>
+		<height>112</height>
+		<x>45</x>
+		<y>56</y>
 		<maxScale>100</maxScale>
 		<clone/>
 		<speech>White</speech>
@@ -34,7 +34,7 @@
 			</LEFT>
 			<RIGHT count="1">
 				<frames>
-					<frame md5="6785DBFC5F315BBDED5921E188D8F4AF" xtrim="14" ytrim="22" wtrim="152" htrim="140" xdraw="12" ydraw="20" wdraw="156" hdraw="144"/>
+					<frame md5="B3DF33916E9DA6913130519D515E660A" xtrim="6" ytrim="12" wtrim="88" htrim="80" xdraw="4" ydraw="10" wdraw="92" hdraw="84"/>
 				</frames>
 			</RIGHT>
 			<FRONT>
@@ -76,7 +76,7 @@
 	<events/>
 	<packs>
 		<frames>
-			<frame pack="0" index="0" index2="-1" x="2" y="2" w="152" h="140"/>
+			<frame pack="0" index="0" index2="-1" x="2" y="2" w="88" h="80"/>
 		</frames>
 		<packs>
 			<pack count="1" groupType="0"/>

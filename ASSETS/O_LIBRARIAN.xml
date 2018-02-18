@@ -32,40 +32,62 @@
 			<LEFT>
 				<frames/>
 			</LEFT>
-			<RIGHT count="9">
+			<RIGHT count="29">
+				<frames>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="FD750D066FA759A8AA95CA398A89877A" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="4679D955CA044C256E0493695A221426" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="4679D955CA044C256E0493695A221426" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="4679D955CA044C256E0493695A221426" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="FD750D066FA759A8AA95CA398A89877A" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="FD750D066FA759A8AA95CA398A89877A" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="4679D955CA044C256E0493695A221426" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="4679D955CA044C256E0493695A221426" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="4679D955CA044C256E0493695A221426" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="FD750D066FA759A8AA95CA398A89877A" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="FD750D066FA759A8AA95CA398A89877A" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="0710D7D453AB2848A5A154B6B94F4427" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="60C56BEC7F4CA377F8A9EDEF700891B0" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="60C56BEC7F4CA377F8A9EDEF700891B0" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="0710D7D453AB2848A5A154B6B94F4427" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+				</frames>
+			</RIGHT>
+			<FRONT count="15">
 				<frames>
 					<frame md5="1256DC336878F37AA910A9C3C4C2CAFD" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
 					<frame md5="1256DC336878F37AA910A9C3C4C2CAFD" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
-					<frame md5="9D11AB1AF9397CF3B756E1A132FE3605" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
-					<frame md5="C5E3920C201CAF78B36861A3F5875370" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
-					<frame md5="33E211A23E40FF6CEDD7AFA028682E6D" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
-					<frame md5="C9E62CA70FCBD0902E299457E50D2BE7" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="1256DC336878F37AA910A9C3C4C2CAFD" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="1256DC336878F37AA910A9C3C4C2CAFD" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="07C892A49733EA6EE742F8B8493ECAC9" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="CFC92A44755D0B5313AF53DB74DED0D1" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="D4D96DFA767F410E3CB1331291194401" xtrim="136" ytrim="82" wtrim="146" htrim="196" xdraw="134" ydraw="80" wdraw="150" hdraw="200"/>
+					<frame md5="D4D96DFA767F410E3CB1331291194401" xtrim="136" ytrim="82" wtrim="146" htrim="196" xdraw="134" ydraw="80" wdraw="150" hdraw="200"/>
+					<frame md5="8E90C01508A4D71D5C2FE8C3FE25CAEE" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="C4B57983422A7440FCEAD7C99D6C3E74" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="C4B57983422A7440FCEAD7C99D6C3E74" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
 					<frame md5="C4B57983422A7440FCEAD7C99D6C3E74" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
 					<frame md5="C4B57983422A7440FCEAD7C99D6C3E74" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
 					<frame md5="CB648393760D1EAF1266BD1D34EEBC93" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
+					<frame md5="CB648393760D1EAF1266BD1D34EEBC93" xtrim="136" ytrim="80" wtrim="146" htrim="198" xdraw="134" ydraw="78" wdraw="150" hdraw="202"/>
 				</frames>
-			</RIGHT>
-			<FRONT>
-				<frames/>
 			</FRONT>
 			<BACK>
 				<frames/>
 			</BACK>
 		</STOP>
-		<WALK fps="6" loopCount="-1">
-			<LEFT>
-				<frames/>
-			</LEFT>
-			<RIGHT>
-				<frames/>
-			</RIGHT>
-			<FRONT>
-				<frames/>
-			</FRONT>
-			<BACK>
-				<frames/>
-			</BACK>
-		</WALK>
 		<TALK fps="6" loopCount="-1">
 			<LEFT>
 				<frames/>
@@ -73,8 +95,25 @@
 			<RIGHT>
 				<frames/>
 			</RIGHT>
-			<FRONT>
-				<frames/>
+			<FRONT count="16">
+				<frames>
+					<frame md5="C060D93BFB50C6EC9DDF8729EAD20D39" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="C060D93BFB50C6EC9DDF8729EAD20D39" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="521F916F3A9DAF35EEA1D1BC658AC33F" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="ECEC7A9878EC57E7AF9FC933DB45E0AC" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="4780FD157340890AC0D4F76216ADB148" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="4780FD157340890AC0D4F76216ADB148" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="094393F1C09B34012FB8A56142A10576" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="37D826DC43D5C470070B8B8D6BFAC94F" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="37D826DC43D5C470070B8B8D6BFAC94F" xtrim="140" ytrim="82" wtrim="138" htrim="190" xdraw="138" ydraw="80" wdraw="142" hdraw="194"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="7E6364953B1356EDFAE08BAEBC1CEBF2" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="5FE07605E8A62864558AD3DE31A6F83A" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+					<frame md5="BF77A479DAD3D317AAB3434BB538109F" xtrim="140" ytrim="80" wtrim="138" htrim="192" xdraw="138" ydraw="78" wdraw="142" hdraw="196"/>
+				</frames>
 			</FRONT>
 			<BACK>
 				<frames/>
@@ -84,18 +123,69 @@
 	<events/>
 	<packs>
 		<frames>
-			<frame pack="0" index="0" index2="-1" x="2" y="2" w="146" h="198"/>
-			<frame pack="0" index="2" index2="-1" x="2" y="204" w="146" h="198"/>
-			<frame pack="0" index="3" index2="-1" x="152" y="2" w="146" h="198"/>
-			<frame pack="0" index="4" index2="-1" x="302" y="2" w="146" h="198"/>
-			<frame pack="0" index="5" index2="-1" x="152" y="204" w="146" h="198"/>
-			<frame pack="0" index="6" index2="-1" x="302" y="204" w="146" h="198"/>
-			<frame pack="0" index="8" index2="-1" x="302" y="406" w="198" h="146" rotated="1"/>
+			<frame pack="0" index="29" index2="-1" x="2" y="2" w="146" h="198"/>
+			<frame pack="0" index="37" index2="-1" x="2" y="204" w="146" h="198"/>
+			<frame pack="0" index="33" index2="-1" x="2" y="406" w="146" h="198"/>
+			<frame pack="0" index="34" index2="-1" x="152" y="2" w="146" h="198"/>
+			<frame pack="0" index="38" index2="-1" x="302" y="2" w="146" h="198"/>
+			<frame pack="0" index="42" index2="-1" x="452" y="2" w="146" h="198"/>
+			<frame pack="0" index="35" index2="-1" x="602" y="2" w="146" h="196"/>
+			<frame pack="0" index="0" index2="-1" x="152" y="204" w="138" h="192"/>
+			<frame pack="0" index="25" index2="-1" x="152" y="400" w="138" h="192"/>
+			<frame pack="0" index="26" index2="-1" x="152" y="596" w="138" h="192"/>
+			<frame pack="0" index="44" index2="-1" x="294" y="204" w="138" h="192"/>
+			<frame pack="0" index="59" index2="-1" x="436" y="204" w="138" h="192"/>
+			<frame pack="0" index="46" index2="-1" x="578" y="204" w="138" h="192"/>
+			<frame pack="0" index="58" index2="-1" x="294" y="400" w="138" h="192"/>
+			<frame pack="0" index="4" index2="-1" x="2" y="608" w="138" h="190"/>
+			<frame pack="0" index="5" index2="-1" x="294" y="596" w="138" h="190"/>
+			<frame pack="0" index="52" index2="-1" x="436" y="400" w="138" h="190"/>
+			<frame pack="0" index="49" index2="-1" x="436" y="594" w="138" h="190"/>
+			<frame pack="0" index="50" index2="-1" x="578" y="400" w="138" h="190"/>
+			<frame pack="0" index="53" index2="-1" x="578" y="594" w="138" h="190"/>
+			<frame pack="0" index="16" index2="5"/>
+			<frame pack="0" index="17" index2="5"/>
+			<frame pack="0" index="18" index2="5"/>
+			<frame pack="0" index="19" index2="4"/>
+			<frame pack="0" index="20" index2="4"/>
+			<frame pack="0" index="21" index2="0"/>
+			<frame pack="0" index="22" index2="0"/>
+			<frame pack="0" index="24" index2="0"/>
+			<frame pack="0" index="27" index2="26"/>
+			<frame pack="0" index="28" index2="25"/>
+			<frame pack="0" index="7" index2="5"/>
+			<frame pack="0" index="31" index2="29"/>
+			<frame pack="0" index="32" index2="29"/>
 			<frame pack="0" index="1" index2="0"/>
-			<frame pack="0" index="7" index2="6"/>
+			<frame pack="0" index="2" index2="0"/>
+			<frame pack="0" index="3" index2="0"/>
+			<frame pack="0" index="36" index2="35"/>
+			<frame pack="0" index="30" index2="29"/>
+			<frame pack="0" index="6" index2="5"/>
+			<frame pack="0" index="39" index2="38"/>
+			<frame pack="0" index="40" index2="38"/>
+			<frame pack="0" index="41" index2="38"/>
+			<frame pack="0" index="8" index2="4"/>
+			<frame pack="0" index="43" index2="42"/>
+			<frame pack="0" index="9" index2="0"/>
+			<frame pack="0" index="10" index2="0"/>
+			<frame pack="0" index="11" index2="0"/>
+			<frame pack="0" index="47" index2="0"/>
+			<frame pack="0" index="48" index2="0"/>
+			<frame pack="0" index="12" index2="0"/>
+			<frame pack="0" index="13" index2="0"/>
+			<frame pack="0" index="51" index2="50"/>
+			<frame pack="0" index="23" index2="0"/>
+			<frame pack="0" index="14" index2="0"/>
+			<frame pack="0" index="54" index2="53"/>
+			<frame pack="0" index="55" index2="0"/>
+			<frame pack="0" index="56" index2="0"/>
+			<frame pack="0" index="57" index2="0"/>
+			<frame pack="0" index="15" index2="4"/>
+			<frame pack="0" index="45" index2="44"/>
 		</frames>
 		<packs>
-			<pack count="9" groupType="0"/>
+			<pack count="60" groupType="0"/>
 		</packs>
 	</packs>
 	<subs/>

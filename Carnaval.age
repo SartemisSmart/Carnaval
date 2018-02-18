@@ -47,7 +47,7 @@ Désolé !</French>
 		<helpScreen>1</helpScreen>
 		<fontColorMenu3>White</fontColorMenu3>
 		<fontColorMenu1>White</fontColorMenu1>
-		<fontColorHighlight>White</fontColorHighlight>
+		<fontColorHighlight>Gold</fontColorHighlight>
 		<splashDuration1>3</splashDuration1>
 	</game>
 	<android/>
