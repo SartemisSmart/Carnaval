@@ -12,7 +12,7 @@
 				<sentence id="1" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" dir="RIGHT" keepDir="0" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 					<text>
 						<English/>
-						<French>Quel étrange rêve...
+						<French>(Quel étrange rêve...)
 ...</French>
 					</text>
 					<script/>
@@ -20,9 +20,9 @@
 						<sentence id="2" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" keepDir="0" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 							<text>
 								<English/>
-								<French>Le carnaval commence ce soir et j'ai l'impression d'avoir dormi tout l'été. 
-Je dois comprendre ce qui rend les gens d'ici si attachés à cette coutume... 
-Et pourquoi j'ai si peur d'y prendre part, de mal faire. </French>
+								<French>(Le carnaval commence ce soir et j'ai l'impression d'avoir dormi tout l'été.)
+(Qu'est-ce qui rend les gens d'ici si attachés à cette coutume ?)
+(Et pourquoi j'ai si peur d'y prendre part.)</French>
 							</text>
 							<script/>
 							<sentences>
@@ -30,9 +30,9 @@ Et pourquoi j'ai si peur d'y prendre part, de mal faire. </French>
 									<text>
 										<English/>
 										<French>*soupir*
-Bon, réfléchissons un instant.
-J'ai dû garder la liste que je m'étais faite pour le carnaval quelque part dans mon sac.
-Et bien sûr : je dois aussi retrouver Billy !</French>
+(Bon, réfléchissons un instant.)
+(J'ai dû garder la liste que je m'étais faite pour le carnaval quelque part.)
+(Et bien sûr : je dois aussi retrouver Billy !)</French>
 									</text>
 									<script/>
 									<sentences>

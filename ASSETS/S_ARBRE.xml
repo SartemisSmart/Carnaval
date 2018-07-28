@@ -2,7 +2,7 @@
 <xml>
 	<uid>S_ARBRE</uid>
 	<scene>
-		<zoom>50</zoom>
+		<zoom>45</zoom>
 	</scene>
 	<objects>
 		<O_HERO>
@@ -446,6 +446,9 @@ success GET_PIECE_CHOREGRAPHY_TREE</event>
 		<event name="USE" param1="O_PIECE_TREE" param2="O_HERO">talk D_CHORE</event>
 		<event name="USE" param1="O_NOTES" param2="O_HERO">talk D_LIST
 success READ_LIST</event>
+		<event name="USE" param1="O_DOG_BISCUIT" param2="O_HERO">talk D_BISCUIT</event>
+		<event name="USE" param1="O_MEDIA_CARD" param2="O_HERO">talk D_MEDIA_CARD</event>
+		<event name="USE" param1="O_TICKET_COSTUME" param2="O_HERO"/>
 		<event name="LABEL" param1="NAIN">talk D_NAIN</event>
 	</events>
 	<goals/>

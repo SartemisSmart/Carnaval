@@ -473,6 +473,7 @@
 		<event name="USE" param1="O_NOTES" param2="O_HERO">talk D_LIST</event>
 		<event name="USE" param1="O_PIECE_TREE" param2="O_HERO">talk D_CHORE</event>
 		<event name="LABEL" param1="BILLY">talk D_BILLY</event>
+		<event name="USE" param1="O_DOG_BISCUIT" param2="O_BILLY"/>
 	</events>
 	<goals/>
 </xml>

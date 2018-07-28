@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-	<uid>D_MAISONS</uid>
-	<dialog nextid="3">
+	<uid>D_TICKET_COSTUME</uid>
+	<dialog nextid="2">
 		<sentence id="0" choice="1" hideBranch="0" goto="0" exit="0" hidden="0" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 			<text>
 				<English/>
@@ -9,11 +9,10 @@
 			</text>
 			<script/>
 			<sentences>
-				<sentence id="1" choice="0" hideBranch="0" goto="2" exit="0" hidden="0" speaker="O_HERO" dir="RIGHT" keepDir="1" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="1" defaultIfEmpty="0">
+				<sentence id="1" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" keepDir="0" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 					<text>
 						<English/>
-						<French>(On apperçoit les maisons du quartier est d'ici.)
-(Tout le quartier est en ébullition pour le carnaval.)</French>
+						<French>(C'est le ticket que m'a donné Francis pour retirer mon costume.)</French>
 					</text>
 					<script/>
 				</sentence>

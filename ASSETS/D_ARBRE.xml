@@ -12,9 +12,9 @@
 				<sentence id="2" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" dir="LEFT" keepDir="1" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 					<text>
 						<English/>
-						<French>J'aime bien venir dormir contre cet arbre.
-Je lui parle même des fois.
-Les autres se moqueraient s'ils savaient ça !</French>
+						<French>(J'aime bien venir dormir contre cet arbre.)
+(Je lui parle même des fois.)
+(Les autres se moqueraient s'ils savaient ça !)</French>
 					</text>
 					<script/>
 				</sentence>

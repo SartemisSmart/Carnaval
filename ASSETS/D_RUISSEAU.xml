@@ -12,8 +12,8 @@
 				<sentence id="1" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" dir="FRONT" keepDir="1" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 					<text>
 						<English/>
-						<French>Il n'y a qu'un seul poisson dans ce ruisseau.
-Il doit se sentir bien seul.</French>
+						<French>(Il n'y a qu'un seul poisson dans ce ruisseau.)
+(Il doit se sentir bien seul.)</French>
 					</text>
 					<script/>
 				</sentence>

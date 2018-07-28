@@ -1,1 +1,3 @@
 New Game
+success ok #80
+success ok #77

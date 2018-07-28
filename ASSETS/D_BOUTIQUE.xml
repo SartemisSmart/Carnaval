@@ -12,7 +12,7 @@
 				<sentence id="1" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" dir="BACK" keepDir="1" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 					<text>
 						<English/>
-						<French>J'ai hâte que cette boutique ouvre !</French>
+						<French>(J'ai hâte que cette boutique ouvre !)</French>
 					</text>
 					<script/>
 				</sentence>

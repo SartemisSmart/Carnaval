@@ -12,9 +12,9 @@
 				<sentence id="1" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" lookat="O_PIECE_TREE" keepDir="0" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 					<text>
 						<English/>
-						<French>Tiens, un morceau de ma chorégraphie ? 
-Billy a du les éparpiller un peu partout pendant que je dormais.
-Ca va être une plaie de les retrouver maintenant !</French>
+						<French>(Tiens, un morceau de ma chorégraphie ?)
+(Billy a du les éparpiller un peu partout pendant que je dormais.)
+(Ça va être une plaie à retrouver maintenant !)</French>
 					</text>
 					<script/>
 				</sentence>

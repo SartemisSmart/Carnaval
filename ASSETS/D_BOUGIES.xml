@@ -12,7 +12,7 @@
 				<sentence id="1" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" dir="LEFT" keepDir="0" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 					<text>
 						<English/>
-						<French>Ces bougies ont une odeur vraiment particulière qui envahit toute la pièce.
+						<French>(Ces bougies ont une odeur vraiment particulière qui envahit toute la pièce.)
 </French>
 					</text>
 					<script/>
@@ -20,7 +20,7 @@
 						<sentence id="3" choice="0" hideBranch="0" goto="0" exit="0" hidden="0" speaker="O_HERO" dir="FRONT" keepDir="1" anim="STOP" keepAnim="0" doNotSay="0" neverHide="0" locked="0" randomly="0" defaultIfEmpty="0">
 							<text>
 								<English/>
-								<French>Elles doivent être faites maison, je suppose.</French>
+								<French>(Elles doivent être faites maison, je suppose.)</French>
 							</text>
 							<script/>
 						</sentence>

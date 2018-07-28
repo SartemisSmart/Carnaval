@@ -17,7 +17,7 @@
 				<trg id="12"/>
 			</plug>
 		</box>
-		<box type="258" id="8" name="END_TUTORIAL" expanded="1" x="-408" y="-32" success="1">
+		<box type="258" id="8" name="END_TUTORIAL" expanded="1" x="-408" y="-32" success="0">
 			<plug id="9" type="2" visible="1" enabled="1"/>
 			<plug id="10" type="3" visible="1" enabled="1">
 				<trg id="6"/>
@@ -149,13 +149,13 @@
 				<trg id="72"/>
 			</plug>
 		</box>
-		<box type="256" id="77" name="READ_LIST" expanded="1" x="-576" y="-64" scriptEnter="Ly9Mb2FkIHRoZSBpbnZlbnRvcnkNCnRha2UgUF9IRVJPIE9fRklSRV9QT1dFUg0KdGFrZSBQX0hFUk8gT19OT1RFUw0KdGFrZSBQX0hFUk8gT19ET0dfQklTQ1VJVA0KdGFrZSBQX0hFUk8gT19USUNLRVRfQ09TVFVNRQ0KdGFrZSBQX0hFUk8gT19NRURJQV9DQVJE=" success="1">
+		<box type="256" id="77" name="READ_LIST" expanded="1" x="-576" y="-64" scriptEnter="Ly9Mb2FkIHRoZSBpbnZlbnRvcnkNCnRha2UgUF9IRVJPIE9fRklSRV9QT1dFUg0KdGFrZSBQX0hFUk8gT19OT1RFUw0KdGFrZSBQX0hFUk8gT19ET0dfQklTQ1VJVA0KdGFrZSBQX0hFUk8gT19USUNLRVRfQ09TVFVNRQ0KdGFrZSBQX0hFUk8gT19NRURJQV9DQVJE=" success="0">
 			<plug id="78" type="2" visible="1" enabled="1"/>
 			<plug id="79" type="3" visible="1" enabled="1">
 				<trg id="9"/>
 			</plug>
 		</box>
-		<box type="256" id="80" name="GET_PIECE_CHOREGRAPHY_TREE" expanded="1" x="-624" y="8" success="1">
+		<box type="256" id="80" name="GET_PIECE_CHOREGRAPHY_TREE" expanded="1" x="-624" y="8" success="0">
 			<plug id="81" type="2" visible="1" enabled="1"/>
 			<plug id="82" type="3" visible="1" enabled="1">
 				<trg id="9"/>
